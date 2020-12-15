@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=cterence)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cterence&theme=nord&margin-w=3&margin-h=3&&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **cterence/cterence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
