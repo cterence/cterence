@@ -6,7 +6,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 - [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (today)
 - [cterence/pkgx-bash](https://github.com/cterence/pkgx-bash) - A docker image based on pkgx with a &#34;command_not_found&#34; bash handle. (today)
-- [cterence/tailout](https://github.com/cterence/tailout) - Spawn an exit node for your tailnet anywhere (1 day ago)
+- [cterence/tailout](https://github.com/cterence/tailout) - Spawn an exit node for your tailscale network anywhere (1 day ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple HTTP healthcheck go app (4 days ago)
 - [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (3 weeks ago)
 
@@ -20,7 +20,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 🔭 Latest releases I've contributed to
 
-- [cterence/tailout](https://github.com/cterence/tailout) ([v0.5.0](https://github.com/cterence/tailout/releases/tag/v0.5.0), 1 day ago) - Spawn an exit node for your tailnet anywhere
+- [cterence/tailout](https://github.com/cterence/tailout) ([v0.5.0](https://github.com/cterence/tailout/releases/tag/v0.5.0), 1 day ago) - Spawn an exit node for your tailscale network anywhere
 - [padok-team/guacamole](https://github.com/padok-team/guacamole) ([v0.3.1](https://github.com/padok-team/guacamole/releases/tag/v0.3.1), 1 month ago) - Evaluate your IaC quality
 
 #### 🔨 My recent Pull Requests
