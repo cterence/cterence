@@ -5,18 +5,18 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 #### 👷 Check out what I'm currently working on
 
 - [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (today)
+- [cterence/pkgx-bash](https://github.com/cterence/pkgx-bash) - A docker image based on pkgx with a &#34;command_not_found&#34; bash handle. (today)
 - [cterence/tailout](https://github.com/cterence/tailout) - Spawn an exit node for your tailnet anywhere (1 day ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple HTTP healthcheck go app (4 days ago)
 - [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (3 weeks ago)
-- [padok-team/guacamole](https://github.com/padok-team/guacamole) - Evaluate your IaC quality (1 month ago)
 
 #### 🌱 My latest projects
 
+- [cterence/pkgx-bash](https://github.com/cterence/pkgx-bash) - A docker image based on pkgx with a &#34;command_not_found&#34; bash handle.
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple HTTP healthcheck go app
 - [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes
 - [cterence/dead-drop](https://github.com/cterence/dead-drop) - my recreation of a dead drop application to securely share information
 - [cterence/chip8-go](https://github.com/cterence/chip8-go) - 
-- [cterence/htmx-golang](https://github.com/cterence/htmx-golang) - 
 
 #### 🔭 Latest releases I've contributed to
 
