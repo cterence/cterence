@@ -4,9 +4,9 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (today)
 - [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 day ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (1 day ago)
-- [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues (6 days ago)
+- [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues (1 week ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple HTTP healthcheck go app (1 week ago)
 - [cterence/tailout](https://github.com/cterence/tailout) - Spawn an exit node for your tailscale network anywhere (2 weeks ago)
 
@@ -20,26 +20,26 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 🔭 Latest releases I've contributed to
 
-- [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) ([v1.11.0](https://github.com/padok-team/yatas-aws/releases/tag/v1.11.0), 6 days ago) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues
+- [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) ([v1.11.0](https://github.com/padok-team/yatas-aws/releases/tag/v1.11.0), 1 week ago) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) ([0.1.2](https://github.com/cterence/go-healthcheck/releases/tag/0.1.2), 1 week ago) - Simple HTTP healthcheck go app
 - [cterence/tailout](https://github.com/cterence/tailout) ([v0.5.0](https://github.com/cterence/tailout/releases/tag/v0.5.0), 2 weeks ago) - Spawn an exit node for your tailscale network anywhere
 - [padok-team/guacamole](https://github.com/padok-team/guacamole) ([v0.3.1](https://github.com/padok-team/guacamole/releases/tag/v0.3.1), 2 months ago) - Evaluate your IaC quality
 
 #### 🔨 My recent Pull Requests
 
-- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/128) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (1 day ago)
-- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/127) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (2 days ago)
-- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/125) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (3 days ago)
-- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/124) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (4 days ago)
-- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/123) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (5 days ago)
+- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/130) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (1 day ago)
+- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/128) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (2 days ago)
+- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/127) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (3 days ago)
+- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/125) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (4 days ago)
+- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/124) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (5 days ago)
 
 #### ⭐ Recent Stars
 
-- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (1 day ago)
-- [yokecd/yoke](https://github.com/yokecd/yoke) - Kubernetes Package Management as Code; infrastructure as code, but actually. (2 days ago)
-- [cybozu-go/moco](https://github.com/cybozu-go/moco) - MySQL operator on Kubernetes using GTID-based semi-synchronous replication. (3 days ago)
+- [learnk8s/xlskubectl](https://github.com/learnk8s/xlskubectl) - xlskubectl — a spreadsheet to control your Kubernetes cluster (1 day ago)
+- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (2 days ago)
+- [yokecd/yoke](https://github.com/yokecd/yoke) - Kubernetes Package Management as Code; infrastructure as code, but actually. (3 days ago)
+- [cybozu-go/moco](https://github.com/cybozu-go/moco) - MySQL operator on Kubernetes using GTID-based semi-synchronous replication. (4 days ago)
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (1 week ago)
-- [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞 (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
