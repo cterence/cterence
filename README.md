@@ -4,11 +4,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (2 days ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (2 days ago)
-- [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (4 days ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 day ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (1 day ago)
+- [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (5 days ago)
 - [cterence/tailout](https://github.com/cterence/tailout) - Spawn an exit node for your tailscale network anywhere (1 week ago)
-- [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues (1 week ago)
+- [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,26 +20,26 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 🔭 Latest releases I've contributed to
 
-- [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) ([0.4.0](https://github.com/cterence/go-healthcheck/releases/tag/0.4.0), 4 days ago) - Simple health check application based on the hellofresh/health-go library.
-- [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) ([v1.11.1](https://github.com/padok-team/yatas-aws/releases/tag/v1.11.1), 1 week ago) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues
+- [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) ([0.4.0](https://github.com/cterence/go-healthcheck/releases/tag/0.4.0), 5 days ago) - Simple health check application based on the hellofresh/health-go library.
+- [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) ([v1.11.1](https://github.com/padok-team/yatas-aws/releases/tag/v1.11.1), 2 weeks ago) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues
 - [cterence/tailout](https://github.com/cterence/tailout) ([v0.5.0](https://github.com/cterence/tailout/releases/tag/v0.5.0), 1 month ago) - Spawn an exit node for your tailscale network anywhere
 - [padok-team/guacamole](https://github.com/padok-team/guacamole) ([v0.3.1](https://github.com/padok-team/guacamole/releases/tag/v0.3.1), 2 months ago) - Evaluate your IaC quality
 
 #### 🔨 My recent Pull Requests
 
-- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/143) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (1 day ago)
-- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/142) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (2 days ago)
-- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/141) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (3 days ago)
-- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/140) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (4 days ago)
-- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/139) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (5 days ago)
+- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/144) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (1 day ago)
+- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/143) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (2 days ago)
+- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/142) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (3 days ago)
+- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/141) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (4 days ago)
+- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/140) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (5 days ago)
 
 #### ⭐ Recent Stars
 
-- [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system (2 days ago)
-- [seal-io/hermitcrab](https://github.com/seal-io/hermitcrab) - Available Terraform Provider network mirroring service. (2 days ago)
-- [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate) - InGate - an Ingress &amp; Gateway API Controller (2 days ago)
-- [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there. (2 days ago)
-- [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring. (3 days ago)
+- [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system (3 days ago)
+- [seal-io/hermitcrab](https://github.com/seal-io/hermitcrab) - Available Terraform Provider network mirroring service. (3 days ago)
+- [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate) - InGate - an Ingress &amp; Gateway API Controller (3 days ago)
+- [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there. (3 days ago)
+- [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring. (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
