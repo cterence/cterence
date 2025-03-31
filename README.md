@@ -4,8 +4,8 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (3 days ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (3 days ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (1 day ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (4 days ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (1 week ago)
 - [cterence/tailout](https://github.com/cterence/tailout) - Spawn an exit node for your tailscale network anywhere (1 week ago)
 - [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues (2 weeks ago)
@@ -27,19 +27,19 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 🔨 My recent Pull Requests
 
-- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/144) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (3 days ago)
-- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/143) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (4 days ago)
-- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/142) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (5 days ago)
-- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/141) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (6 days ago)
+- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/144) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (4 days ago)
+- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/143) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (5 days ago)
+- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/142) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (6 days ago)
+- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/141) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (1 week ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/140) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (1 day ago)
-- [jwchen119/EPF](https://github.com/jwchen119/EPF) - epaper photo frame (2 days ago)
-- [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git (2 days ago)
-- [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system (5 days ago)
-- [seal-io/hermitcrab](https://github.com/seal-io/hermitcrab) - Available Terraform Provider network mirroring service. (5 days ago)
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (2 days ago)
+- [jwchen119/EPF](https://github.com/jwchen119/EPF) - epaper photo frame (3 days ago)
+- [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git (3 days ago)
+- [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system (6 days ago)
+- [seal-io/hermitcrab](https://github.com/seal-io/hermitcrab) - Available Terraform Provider network mirroring service. (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
