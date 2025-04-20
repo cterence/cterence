@@ -4,10 +4,10 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/twig](https://github.com/cterence/twig) - Terragrunt repo where I store my infra as code stuff. (1 day ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (3 days ago)
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (4 days ago)
-- [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (3 weeks ago)
+- [cterence/twig](https://github.com/cterence/twig) - Terragrunt repo where I store my infra as code stuff. (2 days ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (4 days ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (5 days ago)
+- [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (4 weeks ago)
 - [cterence/tailout](https://github.com/cterence/tailout) - Spawn an exit node for your tailscale network anywhere (1 month ago)
 
 #### 🌱 My latest projects
@@ -21,7 +21,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 #### 🔭 Latest releases I've contributed to
 
 - [padok-team/guacamole](https://github.com/padok-team/guacamole) ([v0.3.2](https://github.com/padok-team/guacamole/releases/tag/v0.3.2), 2 weeks ago) - Evaluate your IaC quality
-- [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) ([0.4.0](https://github.com/cterence/go-healthcheck/releases/tag/0.4.0), 3 weeks ago) - Simple health check application based on the hellofresh/health-go library.
+- [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) ([0.4.0](https://github.com/cterence/go-healthcheck/releases/tag/0.4.0), 4 weeks ago) - Simple health check application based on the hellofresh/health-go library.
 - [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) ([v1.11.1](https://github.com/padok-team/yatas-aws/releases/tag/v1.11.1), 1 month ago) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues
 - [cterence/tailout](https://github.com/cterence/tailout) ([v0.5.0](https://github.com/cterence/tailout/releases/tag/v0.5.0), 1 month ago) - Spawn an exit node for your tailscale network anywhere
 
@@ -31,12 +31,12 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/143) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (3 weeks ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/142) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (3 weeks ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/141) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (3 weeks ago)
-- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/140) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (3 weeks ago)
+- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/140) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing (3 days ago)
-- [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (4 days ago)
+- [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing (4 days ago)
+- [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (5 days ago)
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (1 week ago)
 - [robchahin/sso-wall-of-shame](https://github.com/robchahin/sso-wall-of-shame) - A list of vendors that treat single sign-on as a luxury feature, not a core security requirement. (1 week ago)
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices (1 week ago)
