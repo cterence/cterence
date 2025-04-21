@@ -35,11 +35,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
+- [hxu296/tariff](https://github.com/hxu296/tariff) - The official repository for tariff (today)
 - [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing (5 days ago)
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (6 days ago)
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (1 week ago)
 - [robchahin/sso-wall-of-shame](https://github.com/robchahin/sso-wall-of-shame) - A list of vendors that treat single sign-on as a luxury feature, not a core security requirement. (1 week ago)
-- [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
@@ -48,3 +48,9 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 - [JulienJourdain](https://github.com/JulienJourdain)
 - [Walaszczyk](https://github.com/Walaszczyk)
 - [Peace1030](https://github.com/Peace1030)
+
+<p align='center'>
+<picture>
+<img src="https://raw.githubusercontent.com/cterence/cterence/snake/github-contribution-grid-snake.svg" />
+</picture>
+</p>
