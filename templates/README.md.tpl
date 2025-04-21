@@ -31,3 +31,9 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
+
+<p align='center'>
+<picture>
+<img src="https://raw.githubusercontent.com/cterence/cterence/snake/github-contribution-grid-snake.svg" />
+</picture>
+</p>
