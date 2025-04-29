@@ -4,8 +4,8 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 day ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (1 day ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (2 days ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (2 days ago)
 - [cterence/twig](https://github.com/cterence/twig) - Terragrunt repo where I store my infra as code stuff. (1 week ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (1 month ago)
 - [cterence/tailout](https://github.com/cterence/tailout) - Spawn an exit node for your tailscale network anywhere (1 month ago)
@@ -20,7 +20,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 🔭 Latest releases I've contributed to
 
-- [padok-team/guacamole](https://github.com/padok-team/guacamole) ([v0.3.2](https://github.com/padok-team/guacamole/releases/tag/v0.3.2), 3 weeks ago) - Evaluate your IaC quality
+- [padok-team/guacamole](https://github.com/padok-team/guacamole) ([v0.3.2](https://github.com/padok-team/guacamole/releases/tag/v0.3.2), 4 weeks ago) - Evaluate your IaC quality
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) ([0.4.0](https://github.com/cterence/go-healthcheck/releases/tag/0.4.0), 1 month ago) - Simple health check application based on the hellofresh/health-go library.
 - [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) ([v1.11.1](https://github.com/padok-team/yatas-aws/releases/tag/v1.11.1), 1 month ago) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues
 - [cterence/tailout](https://github.com/cterence/tailout) ([v0.5.0](https://github.com/cterence/tailout/releases/tag/v0.5.0), 2 months ago) - Spawn an exit node for your tailscale network anywhere
@@ -35,19 +35,19 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [psxsplash/splashedit](https://github.com/psxsplash/splashedit) -  (1 day ago)
+- [psxsplash/splashedit](https://github.com/psxsplash/splashedit) -  (2 days ago)
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif (1 week ago)
 - [hxu296/tariff](https://github.com/hxu296/tariff) - The official repository for tariff (1 week ago)
 - [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing (1 week ago)
-- [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (1 week ago)
+- [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
-- [filedonkey](https://github.com/filedonkey)
 - [nlevee](https://github.com/nlevee)
 - [JulienJourdain](https://github.com/JulienJourdain)
 - [Walaszczyk](https://github.com/Walaszczyk)
 - [Peace1030](https://github.com/Peace1030)
+- [seaidear](https://github.com/seaidear)
 
 <p align='center'>
 <picture>
