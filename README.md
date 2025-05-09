@@ -4,9 +4,9 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 day ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (2 days ago)
-- [cterence/twig](https://github.com/cterence/twig) - Terragrunt repo where I store my infra as code stuff. (2 weeks ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (2 days ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (3 days ago)
+- [cterence/twig](https://github.com/cterence/twig) - Terragrunt repo where I store my infra as code stuff. (3 weeks ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (1 month ago)
 - [cterence/tailout](https://github.com/cterence/tailout) - Spawn an exit node for your tailscale network anywhere (1 month ago)
 
@@ -35,10 +35,10 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [HeitorAugustoLN/betterfox-nix](https://github.com/HeitorAugustoLN/betterfox-nix) - Home-manager module to integrate Betterfox user.js in Firefox and Librewolf (1 day ago)
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better. (1 day ago)
-- [chaindead/zerocfg](https://github.com/chaindead/zerocfg) - Zero-effort, concise configuration management that avoids boilerplate and repetitive actions. (2 days ago)
-- [slskd/slskd](https://github.com/slskd/slskd) - A modern client-server application for the Soulseek file sharing network. (4 days ago)
+- [HeitorAugustoLN/betterfox-nix](https://github.com/HeitorAugustoLN/betterfox-nix) - Home-manager module to integrate Betterfox user.js in Firefox and Librewolf (2 days ago)
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better. (2 days ago)
+- [chaindead/zerocfg](https://github.com/chaindead/zerocfg) - Zero-effort, concise configuration management that avoids boilerplate and repetitive actions. (3 days ago)
+- [slskd/slskd](https://github.com/slskd/slskd) - A modern client-server application for the Soulseek file sharing network. (5 days ago)
 - [jesseward/jellyfin-plugin-lastfm](https://github.com/jesseward/jellyfin-plugin-lastfm) - LastFM plugin for the Jellyfin media system. Fork of the Emby Last.FM plug-in (1 week ago)
 
 #### 👯 Check out some of my recent followers
