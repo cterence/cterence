@@ -4,10 +4,10 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (5 days ago)
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (6 days ago)
-- [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues (6 days ago)
-- [cterence/twig](https://github.com/cterence/twig) - Terragrunt repo where I store my infra as code stuff. (3 weeks ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 day ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (1 day ago)
+- [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues (1 week ago)
+- [cterence/twig](https://github.com/cterence/twig) - Terragrunt repo where I store my infra as code stuff. (4 weeks ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (1 month ago)
 
 #### 🌱 My latest projects
@@ -20,7 +20,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 🔭 Latest releases I've contributed to
 
-- [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) ([v1.12.0](https://github.com/padok-team/yatas-aws/releases/tag/v1.12.0), 6 days ago) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues
+- [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) ([v1.12.0](https://github.com/padok-team/yatas-aws/releases/tag/v1.12.0), 1 week ago) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues
 - [padok-team/guacamole](https://github.com/padok-team/guacamole) ([v0.3.2](https://github.com/padok-team/guacamole/releases/tag/v0.3.2), 1 month ago) - Evaluate your IaC quality
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) ([0.4.0](https://github.com/cterence/go-healthcheck/releases/tag/0.4.0), 1 month ago) - Simple health check application based on the hellofresh/health-go library.
 - [cterence/tailout](https://github.com/cterence/tailout) ([v0.5.0](https://github.com/cterence/tailout/releases/tag/v0.5.0), 2 months ago) - Spawn an exit node for your tailscale network anywhere
@@ -35,11 +35,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS) - AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows. (4 days ago)
-- [uncle-tee/home-lab](https://github.com/uncle-tee/home-lab) - My Home Lab setUp. (6 days ago)
-- [mrusse/soularr](https://github.com/mrusse/soularr) - A Python script that connects Lidarr with Soulseek!  (6 days ago)
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend &amp; API (6 days ago)
-- [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues (6 days ago)
+- [f-koehler/KTailctl](https://github.com/f-koehler/KTailctl) - A GUI to monitor and manage Tailscale on your Linux desktop. (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS) - AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows. (5 days ago)
+- [uncle-tee/home-lab](https://github.com/uncle-tee/home-lab) - My Home Lab setUp. (1 week ago)
+- [mrusse/soularr](https://github.com/mrusse/soularr) - A Python script that connects Lidarr with Soulseek!  (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
