@@ -4,8 +4,8 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (1 day ago)
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (3 days ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 day ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (2 days ago)
 - [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues (2 weeks ago)
 - [cterence/twig](https://github.com/cterence/twig) - Terragrunt repo where I store my infra as code stuff. (1 month ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (2 months ago)
@@ -27,7 +27,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 🔨 My recent Pull Requests
 
-- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/144) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (1 month ago)
+- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/144) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (2 months ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/143) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (2 months ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/142) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (2 months ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/141) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (2 months ago)
@@ -35,11 +35,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [blake502/balatro-mobile-maker](https://github.com/blake502/balatro-mobile-maker) - Create a mobile Balatro app from your Steam version of Balatro (1 day ago)
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux (4 days ago)
-- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000&#43; formats ⚙️ (4 days ago)
-- [thecfu/scraparr](https://github.com/thecfu/scraparr) - Scraparr is a Prometheus Exporter for various components of the *arr Suite (4 days ago)
-- [f-koehler/KTailctl](https://github.com/f-koehler/KTailctl) - A GUI to monitor and manage Tailscale on your Linux desktop. (1 week ago)
+- [PatrickSt1991/Samsung-Jellyfin-Installer](https://github.com/PatrickSt1991/Samsung-Jellyfin-Installer) - Install Jellyfin onto your Samsung TV with one button (1 day ago)
+- [Drop-OSS/drop](https://github.com/Drop-OSS/drop) - Drop is an open-source game distribution platform. (1 day ago)
+- [blake502/balatro-mobile-maker](https://github.com/blake502/balatro-mobile-maker) - Create a mobile Balatro app from your Steam version of Balatro (2 days ago)
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux (5 days ago)
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000&#43; formats ⚙️ (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
