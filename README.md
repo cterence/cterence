@@ -4,8 +4,8 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 day ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (5 days ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (2 days ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (6 days ago)
 - [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues (3 weeks ago)
 - [cterence/twig](https://github.com/cterence/twig) - Terragrunt repo where I store my infra as code stuff. (1 month ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (2 months ago)
@@ -35,11 +35,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [michaelstingl/opencloud-mobile](https://github.com/michaelstingl/opencloud-mobile) - A mobile client for iOS and Android for connecting to OpenCloud servers. (2 days ago)
-- [tensorchord/cloudnative-vectorchord](https://github.com/tensorchord/cloudnative-vectorchord) -  (3 days ago)
-- [portainer/kubesolo](https://github.com/portainer/kubesolo) - Ultra-lightweight Kubernetes (3 days ago)
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline. (4 days ago)
-- [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr, Azure Blob Storage. (4 days ago)
+- [versity/versitygw](https://github.com/versity/versitygw) - versity s3 gateway (1 day ago)
+- [michaelstingl/opencloud-mobile](https://github.com/michaelstingl/opencloud-mobile) - A mobile client for iOS and Android for connecting to OpenCloud servers. (3 days ago)
+- [tensorchord/cloudnative-vectorchord](https://github.com/tensorchord/cloudnative-vectorchord) -  (4 days ago)
+- [portainer/kubesolo](https://github.com/portainer/kubesolo) - Ultra-lightweight Kubernetes (4 days ago)
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline. (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
