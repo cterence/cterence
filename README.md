@@ -4,11 +4,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 day ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (1 day ago)
+- [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (1 day ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (2 days ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (2 days ago)
 - [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues (3 weeks ago)
 - [cterence/twig](https://github.com/cterence/twig) - Terragrunt repo where I store my infra as code stuff. (1 month ago)
-- [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -35,19 +35,19 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [itsManjeet/rlxos](https://github.com/itsManjeet/rlxos) - A truly modern implementation of GNU/Linux distribution (1 day ago)
-- [olafkfreund/nix-ai-help](https://github.com/olafkfreund/nix-ai-help) - Ai based nix help system from the command line. (2 days ago)
-- [versity/versitygw](https://github.com/versity/versitygw) - versity s3 gateway (4 days ago)
-- [michaelstingl/opencloud-mobile](https://github.com/michaelstingl/opencloud-mobile) - A mobile client for iOS and Android for connecting to OpenCloud servers. (6 days ago)
+- [itsManjeet/rlxos](https://github.com/itsManjeet/rlxos) - A truly modern implementation of GNU/Linux distribution (2 days ago)
+- [olafkfreund/nix-ai-help](https://github.com/olafkfreund/nix-ai-help) - Ai based nix help system from the command line. (3 days ago)
+- [versity/versitygw](https://github.com/versity/versitygw) - versity s3 gateway (5 days ago)
+- [michaelstingl/opencloud-mobile](https://github.com/michaelstingl/opencloud-mobile) - A mobile client for iOS and Android for connecting to OpenCloud servers. (1 week ago)
 - [tensorchord/cloudnative-vectorchord](https://github.com/tensorchord/cloudnative-vectorchord) -  (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
+- [seckinyasar](https://github.com/seckinyasar)
 - [kyuuk](https://github.com/kyuuk)
 - [nlevee](https://github.com/nlevee)
 - [JulienJourdain](https://github.com/JulienJourdain)
 - [Walaszczyk](https://github.com/Walaszczyk)
-- [Peace1030](https://github.com/Peace1030)
 
 <p align='center'>
 <picture>
