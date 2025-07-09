@@ -5,8 +5,8 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 #### 👷 Check out what I'm currently working on
 
 - [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 day ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (2 days ago)
-- [cterence/twig](https://github.com/cterence/twig) - Terragrunt repo where I store my infra as code stuff. (2 days ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (3 days ago)
+- [cterence/twig](https://github.com/cterence/twig) - Terragrunt repo where I store my infra as code stuff. (3 days ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 week ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (1 month ago)
 
@@ -35,11 +35,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. (1 day ago)
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library (2 days ago)
-- [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem (6 days ago)
-- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace &#39;hub&#39; with &#39;ingest&#39; in any github url to get a prompt-friendly extract of a codebase  (6 days ago)
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API&#39;s (lightweight alternative to Postman/Insomnia) (6 days ago)
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. (2 days ago)
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library (3 days ago)
+- [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem (1 week ago)
+- [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace &#39;hub&#39; with &#39;ingest&#39; in any github url to get a prompt-friendly extract of a codebase  (1 week ago)
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API&#39;s (lightweight alternative to Postman/Insomnia) (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
