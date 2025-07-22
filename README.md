@@ -4,9 +4,9 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (3 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (5 days ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (6 days ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (4 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (6 days ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (1 week ago)
 - [cterence/twig](https://github.com/cterence/twig) - Terragrunt repo where I store my infra as code stuff. (2 weeks ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (1 month ago)
 
@@ -31,23 +31,23 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/144) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (3 months ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/143) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (3 months ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/142) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (3 months ago)
-- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/141) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (3 months ago)
+- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/141) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [vikstrous/tempts](https://github.com/vikstrous/tempts) - Type-safe Temporal Go SDK wrapper (5 days ago)
-- [temporalio/awesome-temporal](https://github.com/temporalio/awesome-temporal) - A curated list of awesome Temporal libraries and resources. (5 days ago)
-- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative (6 days ago)
-- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger (6 days ago)
+- [vikstrous/tempts](https://github.com/vikstrous/tempts) - Type-safe Temporal Go SDK wrapper (6 days ago)
+- [temporalio/awesome-temporal](https://github.com/temporalio/awesome-temporal) - A curated list of awesome Temporal libraries and resources. (6 days ago)
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative (1 week ago)
+- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger (1 week ago)
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
 - [SamyDjemai](https://github.com/SamyDjemai)
 - [helallao](https://github.com/helallao)
-- [seckinyasar](https://github.com/seckinyasar)
 - [kyuuk](https://github.com/kyuuk)
 - [nlevee](https://github.com/nlevee)
+- [JulienJourdain](https://github.com/JulienJourdain)
 
 <p align='center'>
 <picture>
