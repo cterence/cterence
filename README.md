@@ -4,7 +4,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (5 days ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 day ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 week ago)
 - [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (1 week ago)
 - [cterence/twig](https://github.com/cterence/twig) - Terragrunt repo where I store my infra as code stuff. (2 weeks ago)
@@ -29,13 +29,13 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 - [ci: setup attic cache push](https://github.com/cterence/nixos-config/pull/222) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (1 month ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/144) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (3 months ago)
-- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/143) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (3 months ago)
+- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/143) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (4 months ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/142) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (4 months ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/141) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [2Tiny2Scale/ScaleTail](https://github.com/2Tiny2Scale/ScaleTail) - Tailscale Sidecar Configurations for Docker (1 day ago)
+- [2Tiny2Scale/ScaleTail](https://github.com/2Tiny2Scale/ScaleTail) - Tailscale Sidecar Configurations for Docker (2 days ago)
 - [vikstrous/tempts](https://github.com/vikstrous/tempts) - Type-safe Temporal Go SDK wrapper (1 week ago)
 - [temporalio/awesome-temporal](https://github.com/temporalio/awesome-temporal) - A curated list of awesome Temporal libraries and resources. (1 week ago)
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative (1 week ago)
