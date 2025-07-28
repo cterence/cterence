@@ -4,7 +4,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (2 days ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (3 days ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 week ago)
 - [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (1 week ago)
 - [cterence/twig](https://github.com/cterence/twig) - Terragrunt repo where I store my infra as code stuff. (3 weeks ago)
@@ -35,19 +35,19 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [vmware-tanzu/velero-plugin-for-aws](https://github.com/vmware-tanzu/velero-plugin-for-aws) - Plugins to support Velero on AWS (2 days ago)
-- [tripsolutions/postgres-containers](https://github.com/tripsolutions/postgres-containers) - Operand images for CloudNativePG with extensions (2 days ago)
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan! (3 days ago)
-- [2Tiny2Scale/ScaleTail](https://github.com/2Tiny2Scale/ScaleTail) - Tailscale Sidecar Configurations for Docker (5 days ago)
+- [vmware-tanzu/velero-plugin-for-aws](https://github.com/vmware-tanzu/velero-plugin-for-aws) - Plugins to support Velero on AWS (3 days ago)
+- [tripsolutions/postgres-containers](https://github.com/tripsolutions/postgres-containers) - Operand images for CloudNativePG with extensions (3 days ago)
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan! (4 days ago)
+- [2Tiny2Scale/ScaleTail](https://github.com/2Tiny2Scale/ScaleTail) - Tailscale Sidecar Configurations for Docker (6 days ago)
 - [vikstrous/tempts](https://github.com/vikstrous/tempts) - Type-safe Temporal Go SDK wrapper (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
 - [SamyDjemai](https://github.com/SamyDjemai)
-- [helallao](https://github.com/helallao)
 - [kyuuk](https://github.com/kyuuk)
 - [nlevee](https://github.com/nlevee)
 - [JulienJourdain](https://github.com/JulienJourdain)
+- [Walaszczyk](https://github.com/Walaszczyk)
 
 <p align='center'>
 <picture>
