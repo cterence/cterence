@@ -4,9 +4,9 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 day ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (1 day ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 week ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (2 days ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (2 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 weeks ago)
 - [cterence/twig](https://github.com/cterence/twig) - Terragrunt repo where I store my infra as code stuff. (3 weeks ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (1 month ago)
 
@@ -35,11 +35,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [vmware-tanzu/velero-plugin-for-aws](https://github.com/vmware-tanzu/velero-plugin-for-aws) - Plugins to support Velero on AWS (4 days ago)
-- [tripsolutions/postgres-containers](https://github.com/tripsolutions/postgres-containers) - Operand images for CloudNativePG with extensions (4 days ago)
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan! (5 days ago)
-- [2Tiny2Scale/ScaleTail](https://github.com/2Tiny2Scale/ScaleTail) - Tailscale Sidecar Configurations for Docker (1 week ago)
-- [vikstrous/tempts](https://github.com/vikstrous/tempts) - Type-safe Temporal Go SDK wrapper (1 week ago)
+- [temporalio/sdk-go](https://github.com/temporalio/sdk-go) - Temporal Go SDK (1 day ago)
+- [cludden/protoc-gen-go-temporal](https://github.com/cludden/protoc-gen-go-temporal) - a protoc plugin for generating Temporal clients and workers in Go from protobuf schemas (1 day ago)
+- [vmware-tanzu/velero-plugin-for-aws](https://github.com/vmware-tanzu/velero-plugin-for-aws) - Plugins to support Velero on AWS (5 days ago)
+- [tripsolutions/postgres-containers](https://github.com/tripsolutions/postgres-containers) - Operand images for CloudNativePG with extensions (5 days ago)
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan! (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
