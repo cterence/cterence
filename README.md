@@ -5,7 +5,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 #### 👷 Check out what I'm currently working on
 
 - [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (1 day ago)
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (6 days ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 week ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 weeks ago)
 - [cterence/twig](https://github.com/cterence/twig) - Terragrunt repo where I store my infra as code stuff. (4 weeks ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (2 months ago)
@@ -27,7 +27,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 🔨 My recent Pull Requests
 
-- [ci: setup attic cache push](https://github.com/cterence/nixos-config/pull/222) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (1 month ago)
+- [ci: setup attic cache push](https://github.com/cterence/nixos-config/pull/222) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (2 months ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/144) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (4 months ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/143) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (4 months ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/142) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (4 months ago)
@@ -35,11 +35,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [temporalio/sdk-go](https://github.com/temporalio/sdk-go) - Temporal Go SDK (5 days ago)
-- [cludden/protoc-gen-go-temporal](https://github.com/cludden/protoc-gen-go-temporal) - a protoc plugin for generating Temporal clients and workers in Go from protobuf schemas (5 days ago)
+- [gitalexcampos/koreader-Highlight-Sync](https://github.com/gitalexcampos/koreader-Highlight-Sync) - A KOReader plugin to sync highlights, notes, and bookmarks across multiple devices using cloud storage like WebDAV or Dropbox. (1 day ago)
+- [temporalio/sdk-go](https://github.com/temporalio/sdk-go) - Temporal Go SDK (6 days ago)
+- [cludden/protoc-gen-go-temporal](https://github.com/cludden/protoc-gen-go-temporal) - a protoc plugin for generating Temporal clients and workers in Go from protobuf schemas (6 days ago)
 - [vmware-tanzu/velero-plugin-for-aws](https://github.com/vmware-tanzu/velero-plugin-for-aws) - Plugins to support Velero on AWS (1 week ago)
 - [tripsolutions/postgres-containers](https://github.com/tripsolutions/postgres-containers) - Operand images for CloudNativePG with extensions (1 week ago)
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan! (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
