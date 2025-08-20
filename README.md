@@ -6,9 +6,9 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 - [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 day ago)
 - [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (1 day ago)
-- [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (1 day ago)
-- [cterence/dead-drop](https://github.com/cterence/dead-drop) - my recreation of a dead drop application to securely share information (1 day ago)
-- [cterence/twig](https://github.com/cterence/twig) - Terragrunt repo where I store my infra as code stuff. (1 day ago)
+- [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (2 days ago)
+- [cterence/cube.terence.cloud](https://github.com/cterence/cube.terence.cloud) - A static MKDocs site to centralize some Rubik&#39;s cube algorithms. (2 days ago)
+- [cterence/twig](https://github.com/cterence/twig) - Terragrunt repo where I store my infra as code stuff. (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,7 +22,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 - [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) ([v1.13.0](https://github.com/padok-team/yatas-aws/releases/tag/v1.13.0), 1 month ago) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues
 - [padok-team/guacamole](https://github.com/padok-team/guacamole) ([v0.3.4](https://github.com/padok-team/guacamole/releases/tag/v0.3.4), 1 month ago) - Evaluate your IaC quality
-- [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) ([0.4.0](https://github.com/cterence/go-healthcheck/releases/tag/0.4.0), 4 months ago) - Simple health check application based on the hellofresh/health-go library.
+- [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) ([0.4.0](https://github.com/cterence/go-healthcheck/releases/tag/0.4.0), 5 months ago) - Simple health check application based on the hellofresh/health-go library.
 - [cterence/tailout](https://github.com/cterence/tailout) ([v0.5.0](https://github.com/cterence/tailout/releases/tag/v0.5.0), 5 months ago) - Spawn an exit node for your tailscale network anywhere
 
 #### 🔨 My recent Pull Requests
@@ -35,7 +35,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [werf/nelm](https://github.com/werf/nelm) - Nelm is a Helm 3 alternative. It is a Kubernetes deployment tool that manages Helm Charts and deploys them to Kubernetes. (1 day ago)
+- [werf/nelm](https://github.com/werf/nelm) - Nelm is a Helm 3 alternative. It is a Kubernetes deployment tool that manages Helm Charts and deploys them to Kubernetes. (2 days ago)
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md (1 week ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 week ago)
 - [numtide/nix-ai-tools](https://github.com/numtide/nix-ai-tools) - Exploring the integration between Nix and AI coding agents (1 week ago)
