@@ -4,11 +4,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 day ago)
 - [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (1 day ago)
-- [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (2 days ago)
-- [cterence/cube.terence.cloud](https://github.com/cterence/cube.terence.cloud) - A static MKDocs site to centralize some Rubik&#39;s cube algorithms. (2 days ago)
-- [cterence/twig](https://github.com/cterence/twig) - Terragrunt repo where I store my infra as code stuff. (2 days ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (2 days ago)
+- [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (3 days ago)
+- [cterence/cube.terence.cloud](https://github.com/cterence/cube.terence.cloud) - A static MKDocs site to centralize some Rubik&#39;s cube algorithms. (3 days ago)
+- [cterence/twig](https://github.com/cterence/twig) - Terragrunt repo where I store my infra as code stuff. (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -31,15 +31,15 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/144) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (4 months ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/143) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (4 months ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/142) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (4 months ago)
-- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/141) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (4 months ago)
+- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/141) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (5 months ago)
 
 #### ⭐ Recent Stars
 
-- [werf/nelm](https://github.com/werf/nelm) - Nelm is a Helm 3 alternative. It is a Kubernetes deployment tool that manages Helm Charts and deploys them to Kubernetes. (2 days ago)
+- [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use) - AI agents can now use real Android and iOS apps, just like a human. (1 day ago)
+- [werf/nelm](https://github.com/werf/nelm) - Nelm is a Helm 3 alternative. It is a Kubernetes deployment tool that manages Helm Charts and deploys them to Kubernetes. (3 days ago)
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md (1 week ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 week ago)
-- [numtide/nix-ai-tools](https://github.com/numtide/nix-ai-tools) - Exploring the integration between Nix and AI coding agents (1 week ago)
-- [gitalexcampos/koreader-Highlight-Sync](https://github.com/gitalexcampos/koreader-Highlight-Sync) - A KOReader plugin to sync highlights, notes, and bookmarks across multiple devices using cloud storage like WebDAV or Dropbox. (2 weeks ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (2 weeks ago)
+- [numtide/nix-ai-tools](https://github.com/numtide/nix-ai-tools) - Exploring the integration between Nix and AI coding agents (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
