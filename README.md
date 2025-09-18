@@ -4,8 +4,8 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (2 days ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (5 days ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (3 days ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (6 days ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (1 week ago)
 - [cterence/pkgx-bash](https://github.com/cterence/pkgx-bash) - A docker image based on pkgx with a &#34;command_not_found&#34; bash handle. (1 week ago)
 - [cterence/dead-drop](https://github.com/cterence/dead-drop) - my recreation of a dead drop application to securely share information (1 month ago)
@@ -27,7 +27,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 🔨 My recent Pull Requests
 
-- [feat(nextcloud): use cronjob for cronjob](https://github.com/cterence/homelab-gitops/pull/501) on [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) (2 days ago)
+- [feat(nextcloud): use cronjob for cronjob](https://github.com/cterence/homelab-gitops/pull/501) on [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) (3 days ago)
 - [ci: setup attic cache push](https://github.com/cterence/nixos-config/pull/222) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (3 months ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/144) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (5 months ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/143) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (5 months ago)
