@@ -4,8 +4,8 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (5 days ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (1 week ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (1 day ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (6 days ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (1 week ago)
 - [cterence/pkgx-bash](https://github.com/cterence/pkgx-bash) - A docker image based on pkgx with a &#34;command_not_found&#34; bash handle. (2 weeks ago)
 - [cterence/dead-drop](https://github.com/cterence/dead-drop) - my recreation of a dead drop application to securely share information (1 month ago)
@@ -21,17 +21,17 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 #### 🔭 Latest releases I've contributed to
 
 - [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) ([v1.13.0](https://github.com/padok-team/yatas-aws/releases/tag/v1.13.0), 2 months ago) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues
-- [padok-team/guacamole](https://github.com/padok-team/guacamole) ([v0.3.4](https://github.com/padok-team/guacamole/releases/tag/v0.3.4), 2 months ago) - Evaluate your IaC quality
+- [padok-team/guacamole](https://github.com/padok-team/guacamole) ([v0.3.4](https://github.com/padok-team/guacamole/releases/tag/v0.3.4), 3 months ago) - Evaluate your IaC quality
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) ([0.4.0](https://github.com/cterence/go-healthcheck/releases/tag/0.4.0), 6 months ago) - Simple health check application based on the hellofresh/health-go library.
-- [cterence/tailout](https://github.com/cterence/tailout) ([v0.5.0](https://github.com/cterence/tailout/releases/tag/v0.5.0), 6 months ago) - Spawn an exit node for your tailscale network anywhere
+- [cterence/tailout](https://github.com/cterence/tailout) ([v0.5.0](https://github.com/cterence/tailout/releases/tag/v0.5.0), 7 months ago) - Spawn an exit node for your tailscale network anywhere
 
 #### 🔨 My recent Pull Requests
 
-- [feat(nextcloud): use cronjob for cronjob](https://github.com/cterence/homelab-gitops/pull/501) on [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) (5 days ago)
+- [feat(nextcloud): use cronjob for cronjob](https://github.com/cterence/homelab-gitops/pull/501) on [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) (6 days ago)
 - [ci: setup attic cache push](https://github.com/cterence/nixos-config/pull/222) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (3 months ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/144) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (5 months ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/143) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (5 months ago)
-- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/142) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (5 months ago)
+- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/142) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (6 months ago)
 
 #### ⭐ Recent Stars
 
@@ -39,7 +39,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 - [pewdiepie-archdaemon/dionysus](https://github.com/pewdiepie-archdaemon/dionysus) - laptop  (2 weeks ago)
 - [derekantrican/subarr](https://github.com/derekantrican/subarr) - &#34;Sonarr for YouTube&#34; - a tool to periodically check various YouTube playlists and take actions when new videos are posted (3 weeks ago)
 - [golang/go](https://github.com/golang/go) - The Go programming language (3 weeks ago)
-- [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program (3 weeks ago)
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
