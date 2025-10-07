@@ -4,22 +4,23 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (3 days ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (4 days ago)
+- [cterence/lastfm-scrobble-deduplicator](https://github.com/cterence/lastfm-scrobble-deduplicator) -  (1 day ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (4 days ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (5 days ago)
 - [cterence/dead-drop](https://github.com/cterence/dead-drop) - my recreation of a dead drop application to securely share information (1 week ago)
-- [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (3 weeks ago)
-- [cterence/pkgx-bash](https://github.com/cterence/pkgx-bash) - A docker image based on pkgx with a &#34;command_not_found&#34; bash handle. (1 month ago)
+- [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (4 weeks ago)
 
 #### 🌱 My latest projects
 
+- [cterence/lastfm-scrobble-deduplicator](https://github.com/cterence/lastfm-scrobble-deduplicator) - 
 - [cterence/pkgx-bash](https://github.com/cterence/pkgx-bash) - A docker image based on pkgx with a &#34;command_not_found&#34; bash handle.
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library.
 - [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes
 - [cterence/dead-drop](https://github.com/cterence/dead-drop) - my recreation of a dead drop application to securely share information
-- [cterence/chip8-go](https://github.com/cterence/chip8-go) - Chip8 emulator in Golang
 
 #### 🔭 Latest releases I've contributed to
 
+- [cterence/lastfm-scrobble-deduplicator](https://github.com/cterence/lastfm-scrobble-deduplicator) ([0.1.0](https://github.com/cterence/lastfm-scrobble-deduplicator/releases/tag/0.1.0), 1 day ago) - 
 - [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) ([v1.13.0](https://github.com/padok-team/yatas-aws/releases/tag/v1.13.0), 3 months ago) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues
 - [padok-team/guacamole](https://github.com/padok-team/guacamole) ([v0.3.4](https://github.com/padok-team/guacamole/releases/tag/v0.3.4), 3 months ago) - Evaluate your IaC quality
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) ([0.4.0](https://github.com/cterence/go-healthcheck/releases/tag/0.4.0), 6 months ago) - Simple health check application based on the hellofresh/health-go library.
@@ -35,11 +36,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗ (5 days ago)
+- [qchuchu/spotify-mcp-server](https://github.com/qchuchu/spotify-mcp-server) - Spotify MCP Server - Model Context Protocol server for Spotify integration (1 day ago)
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (1 day ago)
+- [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗ (6 days ago)
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (2 weeks ago)
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don&#39;t have a broken hiring process (2 weeks ago)
-- [ebitengine/purego](https://github.com/ebitengine/purego) -  (3 weeks ago)
-- [pewdiepie-archdaemon/dionysus](https://github.com/pewdiepie-archdaemon/dionysus) - laptop  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
