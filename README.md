@@ -4,11 +4,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/lastfm-scrobble-deduplicator](https://github.com/cterence/lastfm-scrobble-deduplicator) -  (today)
-- [cterence/rangemusique](https://github.com/cterence/rangemusique) - Arrange music files based on metadata and API data (2 days ago)
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (3 days ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (4 days ago)
-- [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (4 days ago)
+- [cterence/lastfm-scrobble-deduplicator](https://github.com/cterence/lastfm-scrobble-deduplicator) -  (1 day ago)
+- [cterence/rangemusique](https://github.com/cterence/rangemusique) - Arrange music files based on metadata and API data (3 days ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (4 days ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (5 days ago)
+- [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -36,10 +36,10 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [dgtlmoon/sockpuppetbrowser](https://github.com/dgtlmoon/sockpuppetbrowser) - A scalable server for providing Chrome interfaces where needed (4 days ago)
-- [Mordoria/unnamed_game_1_v2](https://github.com/Mordoria/unnamed_game_1_v2) - The Release of Mordoria (4 days ago)
-- [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern (4 days ago)
-- [FastFlowLM/FastFlowLM](https://github.com/FastFlowLM/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs. (6 days ago)
+- [dgtlmoon/sockpuppetbrowser](https://github.com/dgtlmoon/sockpuppetbrowser) - A scalable server for providing Chrome interfaces where needed (5 days ago)
+- [Mordoria/unnamed_game_1_v2](https://github.com/Mordoria/unnamed_game_1_v2) - The Release of Mordoria (5 days ago)
+- [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern (5 days ago)
+- [FastFlowLM/FastFlowLM](https://github.com/FastFlowLM/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs. (1 week ago)
 - [qchuchu/spotify-mcp-server](https://github.com/qchuchu/spotify-mcp-server) - Spotify MCP Server - Model Context Protocol server for Spotify integration (1 week ago)
 
 #### 👯 Check out some of my recent followers
