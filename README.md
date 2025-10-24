@@ -20,7 +20,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 🔭 Latest releases I've contributed to
 
-- [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) ([v1.14.0](https://github.com/padok-team/yatas-aws/releases/tag/v1.14.0), 6 days ago) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues
+- [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) ([v1.14.0](https://github.com/padok-team/yatas-aws/releases/tag/v1.14.0), 1 week ago) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) ([0.5.0](https://github.com/cterence/go-healthcheck/releases/tag/0.5.0), 1 week ago) - Simple health check application based on the hellofresh/health-go library.
 - [cterence/lastfm-scrobble-deduplicator](https://github.com/cterence/lastfm-scrobble-deduplicator) ([0.1.1](https://github.com/cterence/lastfm-scrobble-deduplicator/releases/tag/0.1.1), 1 week ago) - Automatically detects and removes duplicate scrobbles from your Last.fm profile
 - [padok-team/guacamole](https://github.com/padok-team/guacamole) ([v0.3.4](https://github.com/padok-team/guacamole/releases/tag/v0.3.4), 4 months ago) - Evaluate your IaC quality
@@ -36,9 +36,9 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [thedonutfactory/go-tfhe](https://github.com/thedonutfactory/go-tfhe) - 🐿️ A pure golang implementation of TFHE Fully Homomorphic Encryption Scheme (3 days ago)
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (5 days ago)
-- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (6 days ago)
+- [thedonutfactory/go-tfhe](https://github.com/thedonutfactory/go-tfhe) - 🐿️ A pure golang implementation of TFHE Fully Homomorphic Encryption Scheme (4 days ago)
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (6 days ago)
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (1 week ago)
 - [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser (1 week ago)
 - [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google. (1 week ago)
 
