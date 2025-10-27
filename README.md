@@ -8,7 +8,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 - [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (1 week ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (1 week ago)
 - [cterence/rangemusique](https://github.com/cterence/rangemusique) - Arrange music files based on metadata and API data (1 week ago)
-- [cterence/lastfm-scrobble-deduplicator](https://github.com/cterence/lastfm-scrobble-deduplicator) - Automatically detects and removes duplicate scrobbles from your Last.fm profile (1 week ago)
+- [cterence/lastfm-scrobble-deduplicator](https://github.com/cterence/lastfm-scrobble-deduplicator) - Automatically detects and removes duplicate scrobbles from your Last.fm profile (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -36,10 +36,10 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [RayLabsHQ/gitea-mirror](https://github.com/RayLabsHQ/gitea-mirror) - Gitea Mirror auto-syncs GitHub repos to your self-hosted Gitea/Forgejo, with a sleek Web UI and easy Docker deployment. (1 day ago)
-- [RetroTournaments/nesceptor](https://github.com/RetroTournaments/nesceptor) - Hardware mod for 1985 NES (1 day ago)
-- [RetroTournaments/static](https://github.com/RetroTournaments/static) - Simultaneous Time Attack Technology (1 day ago)
-- [thedonutfactory/go-tfhe](https://github.com/thedonutfactory/go-tfhe) - 🐿️ A pure golang implementation of TFHE Fully Homomorphic Encryption Scheme (6 days ago)
+- [RayLabsHQ/gitea-mirror](https://github.com/RayLabsHQ/gitea-mirror) - Gitea Mirror auto-syncs GitHub repos to your self-hosted Gitea/Forgejo, with a sleek Web UI and easy Docker deployment. (2 days ago)
+- [RetroTournaments/nesceptor](https://github.com/RetroTournaments/nesceptor) - Hardware mod for 1985 NES (2 days ago)
+- [RetroTournaments/static](https://github.com/RetroTournaments/static) - Simultaneous Time Attack Technology (2 days ago)
+- [thedonutfactory/go-tfhe](https://github.com/thedonutfactory/go-tfhe) - 🐿️ A pure golang implementation of TFHE Fully Homomorphic Encryption Scheme (1 week ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (1 week ago)
 
 #### 👯 Check out some of my recent followers
