@@ -5,9 +5,9 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 #### 👷 Check out what I'm currently working on
 
 - [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 day ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (1 week ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (1 day ago)
+- [cterence/rangemusique](https://github.com/cterence/rangemusique) - Arrange music files based on metadata and API data (1 day ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (1 week ago)
-- [cterence/rangemusique](https://github.com/cterence/rangemusique) - Arrange music files based on metadata and API data (1 week ago)
 - [cterence/lastfm-scrobble-deduplicator](https://github.com/cterence/lastfm-scrobble-deduplicator) - Automatically detects and removes duplicate scrobbles from your Last.fm profile (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -22,7 +22,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 - [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) ([v1.14.0](https://github.com/padok-team/yatas-aws/releases/tag/v1.14.0), 1 week ago) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) ([0.5.0](https://github.com/cterence/go-healthcheck/releases/tag/0.5.0), 1 week ago) - Simple health check application based on the hellofresh/health-go library.
-- [cterence/lastfm-scrobble-deduplicator](https://github.com/cterence/lastfm-scrobble-deduplicator) ([0.1.1](https://github.com/cterence/lastfm-scrobble-deduplicator/releases/tag/0.1.1), 1 week ago) - Automatically detects and removes duplicate scrobbles from your Last.fm profile
+- [cterence/lastfm-scrobble-deduplicator](https://github.com/cterence/lastfm-scrobble-deduplicator) ([0.1.1](https://github.com/cterence/lastfm-scrobble-deduplicator/releases/tag/0.1.1), 2 weeks ago) - Automatically detects and removes duplicate scrobbles from your Last.fm profile
 - [padok-team/guacamole](https://github.com/padok-team/guacamole) ([v0.3.4](https://github.com/padok-team/guacamole/releases/tag/v0.3.4), 4 months ago) - Evaluate your IaC quality
 - [cterence/tailout](https://github.com/cterence/tailout) ([v0.5.0](https://github.com/cterence/tailout/releases/tag/v0.5.0), 8 months ago) - Spawn an exit node for your tailscale network anywhere
 
@@ -36,11 +36,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [RayLabsHQ/gitea-mirror](https://github.com/RayLabsHQ/gitea-mirror) - Gitea Mirror auto-syncs GitHub repos to your self-hosted Gitea/Forgejo, with a sleek Web UI and easy Docker deployment. (2 days ago)
-- [RetroTournaments/nesceptor](https://github.com/RetroTournaments/nesceptor) - Hardware mod for 1985 NES (2 days ago)
-- [RetroTournaments/static](https://github.com/RetroTournaments/static) - Simultaneous Time Attack Technology (2 days ago)
+- [sj14/jellyfin-go](https://github.com/sj14/jellyfin-go) - Go client for the Jellyfin API (1 day ago)
+- [RayLabsHQ/gitea-mirror](https://github.com/RayLabsHQ/gitea-mirror) - Gitea Mirror auto-syncs GitHub repos to your self-hosted Gitea/Forgejo, with a sleek Web UI and easy Docker deployment. (3 days ago)
+- [RetroTournaments/nesceptor](https://github.com/RetroTournaments/nesceptor) - Hardware mod for 1985 NES (3 days ago)
+- [RetroTournaments/static](https://github.com/RetroTournaments/static) - Simultaneous Time Attack Technology (3 days ago)
 - [thedonutfactory/go-tfhe](https://github.com/thedonutfactory/go-tfhe) - 🐿️ A pure golang implementation of TFHE Fully Homomorphic Encryption Scheme (1 week ago)
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
