@@ -4,11 +4,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 day ago)
+- [cterence/chip8-go](https://github.com/cterence/chip8-go) - Chip8 emulator in Golang (1 day ago)
 - [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (1 day ago)
-- [cterence/rangemusique](https://github.com/cterence/rangemusique) - Arrange music files based on metadata and API data (2 days ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (2 days ago)
+- [cterence/rangemusique](https://github.com/cterence/rangemusique) - Arrange music files based on metadata and API data (3 days ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (2 weeks ago)
-- [cterence/lastfm-scrobble-deduplicator](https://github.com/cterence/lastfm-scrobble-deduplicator) - Automatically detects and removes duplicate scrobbles from your Last.fm profile (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [sj14/jellyfin-go](https://github.com/sj14/jellyfin-go) - Go client for the Jellyfin API (2 days ago)
-- [RayLabsHQ/gitea-mirror](https://github.com/RayLabsHQ/gitea-mirror) - Gitea Mirror auto-syncs GitHub repos to your self-hosted Gitea/Forgejo, with a sleek Web UI and easy Docker deployment. (4 days ago)
-- [RetroTournaments/nesceptor](https://github.com/RetroTournaments/nesceptor) - Hardware mod for 1985 NES (4 days ago)
-- [RetroTournaments/static](https://github.com/RetroTournaments/static) - Simultaneous Time Attack Technology (4 days ago)
-- [thedonutfactory/go-tfhe](https://github.com/thedonutfactory/go-tfhe) - 🐿️ A pure golang implementation of TFHE Fully Homomorphic Encryption Scheme (1 week ago)
+- [henrysipp/omarchy-nix](https://github.com/henrysipp/omarchy-nix) - An opinionated NixOS config based on DHH&#39;s Omarchy (1 day ago)
+- [sj14/jellyfin-go](https://github.com/sj14/jellyfin-go) - Go client for the Jellyfin API (3 days ago)
+- [RayLabsHQ/gitea-mirror](https://github.com/RayLabsHQ/gitea-mirror) - Gitea Mirror auto-syncs GitHub repos to your self-hosted Gitea/Forgejo, with a sleek Web UI and easy Docker deployment. (5 days ago)
+- [RetroTournaments/nesceptor](https://github.com/RetroTournaments/nesceptor) - Hardware mod for 1985 NES (5 days ago)
+- [RetroTournaments/static](https://github.com/RetroTournaments/static) - Simultaneous Time Attack Technology (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
