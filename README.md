@@ -5,9 +5,9 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 #### 👷 Check out what I'm currently working on
 
 - [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 day ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (2 days ago)
-- [cterence/chip8-go](https://github.com/cterence/chip8-go) - Chip8 emulator in Golang (3 days ago)
-- [cterence/rangemusique](https://github.com/cterence/rangemusique) - Arrange music files based on metadata and API data (5 days ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (3 days ago)
+- [cterence/chip8-go](https://github.com/cterence/chip8-go) - Chip8 emulator in Golang (4 days ago)
+- [cterence/rangemusique](https://github.com/cterence/rangemusique) - Arrange music files based on metadata and API data (6 days ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -29,18 +29,18 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 #### 🔨 My recent Pull Requests
 
 - [feat(nextcloud): use cronjob for cronjob](https://github.com/cterence/homelab-gitops/pull/501) on [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) (1 month ago)
-- [ci: setup attic cache push](https://github.com/cterence/nixos-config/pull/222) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (4 months ago)
+- [ci: setup attic cache push](https://github.com/cterence/nixos-config/pull/222) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (5 months ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/144) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (7 months ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/143) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (7 months ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/142) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (7 months ago)
 
 #### ⭐ Recent Stars
 
-- [Kieirra/murmure](https://github.com/Kieirra/murmure) - Privacy-first and free Speech-to-Text (1 day ago)
-- [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in (2 days ago)
-- [henrysipp/omarchy-nix](https://github.com/henrysipp/omarchy-nix) - An opinionated NixOS config based on DHH&#39;s Omarchy (3 days ago)
-- [sj14/jellyfin-go](https://github.com/sj14/jellyfin-go) - Go client for the Jellyfin API (5 days ago)
-- [RayLabsHQ/gitea-mirror](https://github.com/RayLabsHQ/gitea-mirror) - Gitea Mirror auto-syncs GitHub repos to your self-hosted Gitea/Forgejo, with a sleek Web UI and easy Docker deployment. (1 week ago)
+- [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers (1 day ago)
+- [Kieirra/murmure](https://github.com/Kieirra/murmure) - Privacy-first and free Speech-to-Text (2 days ago)
+- [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in (3 days ago)
+- [henrysipp/omarchy-nix](https://github.com/henrysipp/omarchy-nix) - An opinionated NixOS config based on DHH&#39;s Omarchy (4 days ago)
+- [sj14/jellyfin-go](https://github.com/sj14/jellyfin-go) - Go client for the Jellyfin API (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
