@@ -4,10 +4,10 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 day ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (3 days ago)
-- [cterence/chip8-go](https://github.com/cterence/chip8-go) - Chip8 emulator in Golang (4 days ago)
-- [cterence/rangemusique](https://github.com/cterence/rangemusique) - Arrange music files based on metadata and API data (6 days ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (1 day ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (2 days ago)
+- [cterence/chip8-go](https://github.com/cterence/chip8-go) - Chip8 emulator in Golang (5 days ago)
+- [cterence/rangemusique](https://github.com/cterence/rangemusique) - Arrange music files based on metadata and API data (1 week ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -36,11 +36,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers (1 day ago)
-- [Kieirra/murmure](https://github.com/Kieirra/murmure) - Privacy-first and free Speech-to-Text (2 days ago)
-- [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in (3 days ago)
-- [henrysipp/omarchy-nix](https://github.com/henrysipp/omarchy-nix) - An opinionated NixOS config based on DHH&#39;s Omarchy (4 days ago)
-- [sj14/jellyfin-go](https://github.com/sj14/jellyfin-go) - Go client for the Jellyfin API (6 days ago)
+- [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers (2 days ago)
+- [Kieirra/murmure](https://github.com/Kieirra/murmure) - Privacy-first and free Speech-to-Text (3 days ago)
+- [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in (4 days ago)
+- [henrysipp/omarchy-nix](https://github.com/henrysipp/omarchy-nix) - An opinionated NixOS config based on DHH&#39;s Omarchy (5 days ago)
+- [sj14/jellyfin-go](https://github.com/sj14/jellyfin-go) - Go client for the Jellyfin API (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
