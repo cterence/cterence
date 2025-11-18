@@ -36,11 +36,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [Timendus/chip8-test-suite](https://github.com/Timendus/chip8-test-suite) - A collection of ROM images with tests that will aid you in developing your own CHIP-8, SUPER-CHIP or XO-CHIP interpreter (or &#34;emulator&#34;) (3 days ago)
+- [mupen64plus/mupen64plus-core](https://github.com/mupen64plus/mupen64plus-core) - Core module of the Mupen64Plus project (1 day ago)
+- [JohnEarnest/chip8Archive](https://github.com/JohnEarnest/chip8Archive) - A repository of community-submitted Chip8 programs and their metadata (1 day ago)
+- [Timendus/chip8-test-suite](https://github.com/Timendus/chip8-test-suite) - A collection of ROM images with tests that will aid you in developing your own CHIP-8, SUPER-CHIP or XO-CHIP interpreter (or &#34;emulator&#34;) (4 days ago)
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket. (1 week ago)
-- [gbdev/awesome-gbdev](https://github.com/gbdev/awesome-gbdev) - A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs. (1 week ago)
-- [robert/gameboy-doctor](https://github.com/robert/gameboy-doctor) - Debug and fix your gameboy emulator (2 weeks ago)
-- [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers (2 weeks ago)
+- [gbdev/awesome-gbdev](https://github.com/gbdev/awesome-gbdev) - A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
