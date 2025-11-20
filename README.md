@@ -4,7 +4,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (2 days ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (3 days ago)
 - [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (2 weeks ago)
 - [cterence/rangemusique](https://github.com/cterence/rangemusique) - Arrange music files based on metadata and API data (3 weeks ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (1 month ago)
@@ -23,8 +23,8 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 - [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) ([v1.14.0](https://github.com/padok-team/yatas-aws/releases/tag/v1.14.0), 1 month ago) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) ([0.5.0](https://github.com/cterence/go-healthcheck/releases/tag/0.5.0), 1 month ago) - Simple health check application based on the hellofresh/health-go library.
 - [cterence/lastfm-scrobble-deduplicator](https://github.com/cterence/lastfm-scrobble-deduplicator) ([0.1.1](https://github.com/cterence/lastfm-scrobble-deduplicator/releases/tag/0.1.1), 1 month ago) - Automatically detects and removes duplicate scrobbles from your Last.fm profile
-- [padok-team/guacamole](https://github.com/padok-team/guacamole) ([v0.3.4](https://github.com/padok-team/guacamole/releases/tag/v0.3.4), 4 months ago) - Evaluate your IaC quality
-- [cterence/tailout](https://github.com/cterence/tailout) ([v0.5.0](https://github.com/cterence/tailout/releases/tag/v0.5.0), 8 months ago) - Spawn an exit node for your tailscale network anywhere
+- [padok-team/guacamole](https://github.com/padok-team/guacamole) ([v0.3.4](https://github.com/padok-team/guacamole/releases/tag/v0.3.4), 5 months ago) - Evaluate your IaC quality
+- [cterence/tailout](https://github.com/cterence/tailout) ([v0.5.0](https://github.com/cterence/tailout/releases/tag/v0.5.0), 9 months ago) - Spawn an exit node for your tailscale network anywhere
 
 #### 🔨 My recent Pull Requests
 
@@ -32,15 +32,15 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 - [ci: setup attic cache push](https://github.com/cterence/nixos-config/pull/222) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (5 months ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/144) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (7 months ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/143) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (7 months ago)
-- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/142) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (7 months ago)
+- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/142) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (8 months ago)
 
 #### ⭐ Recent Stars
 
-- [drehren/ra_mp64_srm_convert](https://github.com/drehren/ra_mp64_srm_convert) - An utility to create RetroArch Mupen64&#43; core compatible SRM files from other emulator saves. (1 day ago)
-- [mupen64plus/mupen64plus-core](https://github.com/mupen64plus/mupen64plus-core) - Core module of the Mupen64Plus project (2 days ago)
-- [JohnEarnest/chip8Archive](https://github.com/JohnEarnest/chip8Archive) - A repository of community-submitted Chip8 programs and their metadata (2 days ago)
-- [Timendus/chip8-test-suite](https://github.com/Timendus/chip8-test-suite) - A collection of ROM images with tests that will aid you in developing your own CHIP-8, SUPER-CHIP or XO-CHIP interpreter (or &#34;emulator&#34;) (5 days ago)
-- [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket. (2 weeks ago)
+- [sm64pc/sm64ex](https://github.com/sm64pc/sm64ex) - Fork of https://github.com/sm64-port/sm64-port with additional features. (1 day ago)
+- [drehren/ra_mp64_srm_convert](https://github.com/drehren/ra_mp64_srm_convert) - An utility to create RetroArch Mupen64&#43; core compatible SRM files from other emulator saves. (2 days ago)
+- [mupen64plus/mupen64plus-core](https://github.com/mupen64plus/mupen64plus-core) - Core module of the Mupen64Plus project (3 days ago)
+- [JohnEarnest/chip8Archive](https://github.com/JohnEarnest/chip8Archive) - A repository of community-submitted Chip8 programs and their metadata (3 days ago)
+- [Timendus/chip8-test-suite](https://github.com/Timendus/chip8-test-suite) - A collection of ROM images with tests that will aid you in developing your own CHIP-8, SUPER-CHIP or XO-CHIP interpreter (or &#34;emulator&#34;) (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
