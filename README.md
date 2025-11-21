@@ -4,7 +4,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (3 days ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (4 days ago)
 - [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (2 weeks ago)
 - [cterence/rangemusique](https://github.com/cterence/rangemusique) - Arrange music files based on metadata and API data (3 weeks ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (1 month ago)
@@ -31,16 +31,16 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 - [feat(nextcloud): use cronjob for cronjob](https://github.com/cterence/homelab-gitops/pull/501) on [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) (2 months ago)
 - [ci: setup attic cache push](https://github.com/cterence/nixos-config/pull/222) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (5 months ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/144) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (7 months ago)
-- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/143) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (7 months ago)
+- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/143) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (8 months ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/142) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (8 months ago)
 
 #### ⭐ Recent Stars
 
-- [sm64pc/sm64ex](https://github.com/sm64pc/sm64ex) - Fork of https://github.com/sm64-port/sm64-port with additional features. (1 day ago)
-- [drehren/ra_mp64_srm_convert](https://github.com/drehren/ra_mp64_srm_convert) - An utility to create RetroArch Mupen64&#43; core compatible SRM files from other emulator saves. (2 days ago)
-- [mupen64plus/mupen64plus-core](https://github.com/mupen64plus/mupen64plus-core) - Core module of the Mupen64Plus project (3 days ago)
-- [JohnEarnest/chip8Archive](https://github.com/JohnEarnest/chip8Archive) - A repository of community-submitted Chip8 programs and their metadata (3 days ago)
-- [Timendus/chip8-test-suite](https://github.com/Timendus/chip8-test-suite) - A collection of ROM images with tests that will aid you in developing your own CHIP-8, SUPER-CHIP or XO-CHIP interpreter (or &#34;emulator&#34;) (6 days ago)
+- [JohnEarnest/Octo](https://github.com/JohnEarnest/Octo) - A Chip8 IDE (1 day ago)
+- [sm64pc/sm64ex](https://github.com/sm64pc/sm64ex) - Fork of https://github.com/sm64-port/sm64-port with additional features. (2 days ago)
+- [drehren/ra_mp64_srm_convert](https://github.com/drehren/ra_mp64_srm_convert) - An utility to create RetroArch Mupen64&#43; core compatible SRM files from other emulator saves. (3 days ago)
+- [mupen64plus/mupen64plus-core](https://github.com/mupen64plus/mupen64plus-core) - Core module of the Mupen64Plus project (4 days ago)
+- [JohnEarnest/chip8Archive](https://github.com/JohnEarnest/chip8Archive) - A repository of community-submitted Chip8 programs and their metadata (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
