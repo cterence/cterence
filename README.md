@@ -36,11 +36,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [JohnEarnest/Octo](https://github.com/JohnEarnest/Octo) - A Chip8 IDE (4 days ago)
-- [sm64pc/sm64ex](https://github.com/sm64pc/sm64ex) - Fork of https://github.com/sm64-port/sm64-port with additional features. (5 days ago)
-- [drehren/ra_mp64_srm_convert](https://github.com/drehren/ra_mp64_srm_convert) - An utility to create RetroArch Mupen64&#43; core compatible SRM files from other emulator saves. (6 days ago)
+- [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (1 day ago)
+- [JohnEarnest/Octo](https://github.com/JohnEarnest/Octo) - A Chip8 IDE (5 days ago)
+- [sm64pc/sm64ex](https://github.com/sm64pc/sm64ex) - Fork of https://github.com/sm64-port/sm64-port with additional features. (6 days ago)
+- [drehren/ra_mp64_srm_convert](https://github.com/drehren/ra_mp64_srm_convert) - An utility to create RetroArch Mupen64&#43; core compatible SRM files from other emulator saves. (1 week ago)
 - [mupen64plus/mupen64plus-core](https://github.com/mupen64plus/mupen64plus-core) - Core module of the Mupen64Plus project (1 week ago)
-- [JohnEarnest/chip8Archive](https://github.com/JohnEarnest/chip8Archive) - A repository of community-submitted Chip8 programs and their metadata (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
