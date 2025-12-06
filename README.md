@@ -4,9 +4,9 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (6 days ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (6 days ago)
-- [cterence/chip8-go](https://github.com/cterence/chip8-go) - A Golang CHIP-8 interpreeter, supports SUPER-CHIP and XO-CHIP. (6 days ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 week ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (1 week ago)
+- [cterence/chip8-go](https://github.com/cterence/chip8-go) - A Golang CHIP-8 interpreeter, supports SUPER-CHIP and XO-CHIP. (1 week ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (1 week ago)
 - [cterence/pkgx-bash](https://github.com/cterence/pkgx-bash) - A docker image based on pkgx with a &#34;command_not_found&#34; bash handle. (1 week ago)
 
@@ -36,7 +36,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [beep8/beep8-sdk](https://github.com/beep8/beep8-sdk) - SDK for developing games and tools for the BEEP-8 fantasy console. (1 day ago)
+- [beep8/beep8-sdk](https://github.com/beep8/beep8-sdk) - SDK for developing games and tools for the BEEP-8 fantasy console. (2 days ago)
 - [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there&#39;s no activity. Docker, Docker Swarm Mode and Kubernetes compatible. (1 week ago)
 - [gen2brain/raylib-go](https://github.com/gen2brain/raylib-go) - Go bindings for raylib, a simple and easy-to-use library to enjoy videogames programming. (1 week ago)
 - [tsoding/crepl](https://github.com/tsoding/crepl) - C REPL (1 week ago)
@@ -44,11 +44,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👯 Check out some of my recent followers
 
+- [helallao](https://github.com/helallao)
+- [seckinyasar](https://github.com/seckinyasar)
 - [wetmet](https://github.com/wetmet)
 - [basanys](https://github.com/basanys)
 - [Connor9994](https://github.com/Connor9994)
-- [SamyDjemai](https://github.com/SamyDjemai)
-- [kyuuk](https://github.com/kyuuk)
 
 <p align='center'>
 <picture>
