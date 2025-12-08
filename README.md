@@ -36,8 +36,8 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [mamedev/mame](https://github.com/mamedev/mame) - MAME (1 day ago)
-- [beep8/beep8-sdk](https://github.com/beep8/beep8-sdk) - SDK for developing games and tools for the BEEP-8 fantasy console. (3 days ago)
+- [mamedev/mame](https://github.com/mamedev/mame) - MAME (2 days ago)
+- [beep8/beep8-sdk](https://github.com/beep8/beep8-sdk) - SDK for developing games and tools for the BEEP-8 fantasy console. (4 days ago)
 - [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there&#39;s no activity. Docker, Docker Swarm Mode and Kubernetes compatible. (1 week ago)
 - [gen2brain/raylib-go](https://github.com/gen2brain/raylib-go) - Go bindings for raylib, a simple and easy-to-use library to enjoy videogames programming. (1 week ago)
 - [tsoding/crepl](https://github.com/tsoding/crepl) - C REPL (1 week ago)
