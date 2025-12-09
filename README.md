@@ -4,19 +4,19 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
+- [cterence/chip8-go](https://github.com/cterence/chip8-go) - A Golang CHIP-8 interpreeter, supports SUPER-CHIP and XO-CHIP. (1 day ago)
+- [cterence/goarcade](https://github.com/cterence/goarcade) - Intel 8080 arcade emulator written in Golang. (1 day ago)
 - [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 week ago)
 - [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (1 week ago)
-- [cterence/chip8-go](https://github.com/cterence/chip8-go) - A Golang CHIP-8 interpreeter, supports SUPER-CHIP and XO-CHIP. (1 week ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (1 week ago)
-- [cterence/pkgx-bash](https://github.com/cterence/pkgx-bash) - A docker image based on pkgx with a &#34;command_not_found&#34; bash handle. (1 week ago)
 
 #### 🌱 My latest projects
 
+- [cterence/goarcade](https://github.com/cterence/goarcade) - Intel 8080 arcade emulator written in Golang.
 - [cterence/chip8-go](https://github.com/cterence/chip8-go) - A Golang CHIP-8 interpreeter, supports SUPER-CHIP and XO-CHIP.
 - [cterence/rangemusique](https://github.com/cterence/rangemusique) - Arrange music files based on metadata and API data
 - [cterence/lastfm-scrobble-deduplicator](https://github.com/cterence/lastfm-scrobble-deduplicator) - Automatically detects and removes duplicate scrobbles from your Last.fm profile
 - [cterence/pkgx-bash](https://github.com/cterence/pkgx-bash) - A docker image based on pkgx with a &#34;command_not_found&#34; bash handle.
-- [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library.
 
 #### 🔭 Latest releases I've contributed to
 
@@ -36,11 +36,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [mamedev/mame](https://github.com/mamedev/mame) - MAME (2 days ago)
-- [beep8/beep8-sdk](https://github.com/beep8/beep8-sdk) - SDK for developing games and tools for the BEEP-8 fantasy console. (4 days ago)
+- [100thCoin/AccuracyCoin](https://github.com/100thCoin/AccuracyCoin) - A large collection of NES accuracy tests on a single NROM cartridge. (1 day ago)
+- [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 40% faster, and unlimited caching. Best alternative to Actions Runner Controller. (1 day ago)
+- [mamedev/mame](https://github.com/mamedev/mame) - MAME (3 days ago)
+- [beep8/beep8-sdk](https://github.com/beep8/beep8-sdk) - SDK for developing games and tools for the BEEP-8 fantasy console. (5 days ago)
 - [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there&#39;s no activity. Docker, Docker Swarm Mode and Kubernetes compatible. (1 week ago)
-- [gen2brain/raylib-go](https://github.com/gen2brain/raylib-go) - Go bindings for raylib, a simple and easy-to-use library to enjoy videogames programming. (1 week ago)
-- [tsoding/crepl](https://github.com/tsoding/crepl) - C REPL (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
