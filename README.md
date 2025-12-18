@@ -4,11 +4,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (4 days ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (4 days ago)
-- [cterence/goarcade](https://github.com/cterence/goarcade) - Intel 8080 arcade emulator written in Golang. (4 days ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (1 day ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (5 days ago)
+- [cterence/goarcade](https://github.com/cterence/goarcade) - Intel 8080 arcade emulator written in Golang. (5 days ago)
 - [cterence/chip8-go](https://github.com/cterence/chip8-go) - A Golang CHIP-8 interpreter, supports SUPER-CHIP and XO-CHIP. (1 week ago)
-- [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (2 weeks ago)
+- [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
+- [aabalke/guac](https://github.com/aabalke/guac) - GBA, GBC, DMG Emulator written in golang (1 day ago)
+- [Ashiepaws/GBEDG](https://github.com/Ashiepaws/GBEDG) - The Gameboy Emulator Development Guide (1 day ago)
+- [thelolagemann/gomeboy](https://github.com/thelolagemann/gomeboy) - Game Boy emulator written in golang (1 day ago)
+- [LIJI32/SameBoy](https://github.com/LIJI32/SameBoy) - Game Boy and Game Boy Color emulator written in C (1 day ago)
 - [100thCoin/AccuracyCoin](https://github.com/100thCoin/AccuracyCoin) - A large collection of NES accuracy tests on a single NROM cartridge. (1 week ago)
-- [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 40% faster, and unlimited caching. Best alternative to Actions Runner Controller. (1 week ago)
-- [mamedev/mame](https://github.com/mamedev/mame) - MAME (1 week ago)
-- [beep8/beep8-sdk](https://github.com/beep8/beep8-sdk) - SDK for developing games and tools for the BEEP-8 fantasy console. (1 week ago)
-- [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there&#39;s no activity. Docker, Docker Swarm Mode and Kubernetes compatible. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
