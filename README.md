@@ -4,7 +4,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (3 days ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (4 days ago)
 - [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 week ago)
 - [cterence/goarcade](https://github.com/cterence/goarcade) - Intel 8080 arcade emulator written in Golang. (1 week ago)
 - [cterence/chip8-go](https://github.com/cterence/chip8-go) - A Golang CHIP-8 interpreter, supports SUPER-CHIP and XO-CHIP. (1 week ago)
@@ -32,15 +32,15 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 - [feat(nextcloud): use cronjob for cronjob](https://github.com/cterence/homelab-gitops/pull/501) on [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) (3 months ago)
 - [ci: setup attic cache push](https://github.com/cterence/nixos-config/pull/222) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (6 months ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/144) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (8 months ago)
-- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/143) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (8 months ago)
+- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/143) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (9 months ago)
 
 #### ⭐ Recent Stars
 
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator (2 days ago)
-- [GBALATRO/balatro-gba](https://github.com/GBALATRO/balatro-gba) -  (2 days ago)
-- [aabalke/guac](https://github.com/aabalke/guac) - GBA, GBC, DMG Emulator written in golang (3 days ago)
-- [Ashiepaws/GBEDG](https://github.com/Ashiepaws/GBEDG) - The Gameboy Emulator Development Guide (3 days ago)
-- [thelolagemann/gomeboy](https://github.com/thelolagemann/gomeboy) - Game Boy emulator written in golang (3 days ago)
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator (3 days ago)
+- [GBALATRO/balatro-gba](https://github.com/GBALATRO/balatro-gba) -  (3 days ago)
+- [aabalke/guac](https://github.com/aabalke/guac) - GBA, GBC, DMG Emulator written in golang (4 days ago)
+- [Ashiepaws/GBEDG](https://github.com/Ashiepaws/GBEDG) - The Gameboy Emulator Development Guide (4 days ago)
+- [thelolagemann/gomeboy](https://github.com/thelolagemann/gomeboy) - Game Boy emulator written in golang (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
