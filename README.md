@@ -4,8 +4,8 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 day ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (6 days ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (2 days ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (1 week ago)
 - [cterence/goarcade](https://github.com/cterence/goarcade) - Intel 8080 arcade emulator written in Golang. (1 week ago)
 - [cterence/chip8-go](https://github.com/cterence/chip8-go) - A Golang CHIP-8 interpreter, supports SUPER-CHIP and XO-CHIP. (2 weeks ago)
 - [cterence/pkgx-bash](https://github.com/cterence/pkgx-bash) - A docker image based on pkgx with a &#34;command_not_found&#34; bash handle. (3 weeks ago)
@@ -36,11 +36,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming (1 day ago)
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator (5 days ago)
-- [GBALATRO/balatro-gba](https://github.com/GBALATRO/balatro-gba) -  (5 days ago)
-- [aabalke/guac](https://github.com/aabalke/guac) - GBA, GBC, DMG Emulator written in golang (6 days ago)
-- [Ashiepaws/GBEDG](https://github.com/Ashiepaws/GBEDG) - The Gameboy Emulator Development Guide (6 days ago)
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming (2 days ago)
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator (6 days ago)
+- [GBALATRO/balatro-gba](https://github.com/GBALATRO/balatro-gba) -  (6 days ago)
+- [aabalke/guac](https://github.com/aabalke/guac) - GBA, GBC, DMG Emulator written in golang (1 week ago)
+- [Ashiepaws/GBEDG](https://github.com/Ashiepaws/GBEDG) - The Gameboy Emulator Development Guide (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
