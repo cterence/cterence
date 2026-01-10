@@ -4,9 +4,9 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (2 days ago)
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (4 days ago)
-- [cterence/goarcade](https://github.com/cterence/goarcade) - Intel 8080 arcade emulator written in Golang. (3 weeks ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (3 days ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (5 days ago)
+- [cterence/goarcade](https://github.com/cterence/goarcade) - Intel 8080 arcade emulator written in Golang. (4 weeks ago)
 - [cterence/chip8-go](https://github.com/cterence/chip8-go) - A Golang CHIP-8 interpreter, supports SUPER-CHIP and XO-CHIP. (1 month ago)
 - [cterence/pkgx-bash](https://github.com/cterence/pkgx-bash) - A docker image based on pkgx with a &#34;command_not_found&#34; bash handle. (1 month ago)
 
@@ -27,7 +27,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 🔨 My recent Pull Requests
 
-- [google-chat-linux: 5.29.23-1 -&gt; 5.39.24-1](https://github.com/NixOS/nixpkgs/pull/477743) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
+- [google-chat-linux: 5.29.23-1 -&gt; 5.39.24-1](https://github.com/NixOS/nixpkgs/pull/477743) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
 - [betteralign: init at 0.8.2](https://github.com/NixOS/nixpkgs/pull/469257) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 month ago)
 - [feat(nextcloud): use cronjob for cronjob](https://github.com/cterence/homelab-gitops/pull/501) on [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) (3 months ago)
 - [ci: setup attic cache push](https://github.com/cterence/nixos-config/pull/222) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (7 months ago)
@@ -35,11 +35,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
+- [lklynet/hypermind](https://github.com/lklynet/hypermind) - The High-Availability Solution to a Problem That Doesn&#39;t Exist. (1 day ago)
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (1 week ago)
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming (2 weeks ago)
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator (unofficial) (3 weeks ago)
 - [GBALATRO/balatro-gba](https://github.com/GBALATRO/balatro-gba) -  (3 weeks ago)
-- [aabalke/guac](https://github.com/aabalke/guac) - GBA, GBC, DMG Emulator written in golang (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
