@@ -4,10 +4,10 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (4 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (4 days ago)
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (6 days ago)
-- [cterence/goarcade](https://github.com/cterence/goarcade) - Intel 8080 arcade emulator written in Golang. (4 weeks ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (5 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (5 days ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 week ago)
+- [cterence/goarcade](https://github.com/cterence/goarcade) - Intel 8080 arcade emulator written in Golang. (1 month ago)
 - [cterence/chip8-go](https://github.com/cterence/chip8-go) - A Golang CHIP-8 interpreter, supports SUPER-CHIP and XO-CHIP. (1 month ago)
 
 #### 🌱 My latest projects
@@ -22,12 +22,12 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 - [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) ([v1.14.0](https://github.com/padok-team/yatas-aws/releases/tag/v1.14.0), 2 months ago) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) ([0.5.0](https://github.com/cterence/go-healthcheck/releases/tag/0.5.0), 2 months ago) - Simple health check application based on the hellofresh/health-go library.
-- [cterence/lastfm-scrobble-deduplicator](https://github.com/cterence/lastfm-scrobble-deduplicator) ([0.1.1](https://github.com/cterence/lastfm-scrobble-deduplicator/releases/tag/0.1.1), 2 months ago) - Automatically detects and removes duplicate scrobbles from your Last.fm profile
+- [cterence/lastfm-scrobble-deduplicator](https://github.com/cterence/lastfm-scrobble-deduplicator) ([0.1.1](https://github.com/cterence/lastfm-scrobble-deduplicator/releases/tag/0.1.1), 3 months ago) - Automatically detects and removes duplicate scrobbles from your Last.fm profile
 - [cterence/tailout](https://github.com/cterence/tailout) ([v0.5.0](https://github.com/cterence/tailout/releases/tag/v0.5.0), 10 months ago) - Spawn an exit node for your tailscale network anywhere
 
 #### 🔨 My recent Pull Requests
 
-- [google-chat-linux: 5.29.23-1 -&gt; 5.39.24-1](https://github.com/NixOS/nixpkgs/pull/477743) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago)
+- [google-chat-linux: 5.29.23-1 -&gt; 5.39.24-1](https://github.com/NixOS/nixpkgs/pull/477743) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 days ago)
 - [betteralign: init at 0.8.2](https://github.com/NixOS/nixpkgs/pull/469257) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 month ago)
 - [feat(nextcloud): use cronjob for cronjob](https://github.com/cterence/homelab-gitops/pull/501) on [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) (3 months ago)
 - [ci: setup attic cache push](https://github.com/cterence/nixos-config/pull/222) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (7 months ago)
@@ -35,9 +35,9 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [lklynet/hypermind](https://github.com/lklynet/hypermind) - The High-Availability Solution to a Problem That Doesn&#39;t Exist. (2 days ago)
+- [lklynet/hypermind](https://github.com/lklynet/hypermind) - The High-Availability Solution to a Problem That Doesn&#39;t Exist. (3 days ago)
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (2 weeks ago)
-- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming (2 weeks ago)
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming (3 weeks ago)
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator (unofficial) (3 weeks ago)
 - [GBALATRO/balatro-gba](https://github.com/GBALATRO/balatro-gba) -  (3 weeks ago)
 
