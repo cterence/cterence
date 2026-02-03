@@ -4,11 +4,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
+- [cterence/dead-drop](https://github.com/cterence/dead-drop) - my recreation of a dead drop application to securely share information (today)
 - [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (5 days ago)
 - [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (1 week ago)
 - [cterence/rangemusique](https://github.com/cterence/rangemusique) - Arrange music files based on metadata and API data (1 week ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 weeks ago)
-- [cterence/goarcade](https://github.com/cterence/goarcade) - Intel 8080 arcade emulator written in Golang. (1 month ago)
 
 #### 🌱 My latest projects
 
