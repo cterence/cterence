@@ -1,4 +1,4 @@
-### Bonjour 👋
+### Hello 👋
 
 I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS, Kubernetes, and Open Source.
 
