@@ -1,10 +1,10 @@
-### Hello 👋
+### Bonjour 👋
 
 I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS, Kubernetes, and Open Source.
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (1 day ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (today)
 - [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (2 days ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (6 days ago)
 - [cterence/pkgx-bash](https://github.com/cterence/pkgx-bash) - A docker image based on pkgx with a &#34;command_not_found&#34; bash handle. (6 days ago)
@@ -36,11 +36,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
+- [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral (today)
+- [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate. (today)
 - [rfsbraz/huntarr-security-review](https://github.com/rfsbraz/huntarr-security-review) -  (5 days ago)
 - [Uspectacle/chesslab](https://github.com/Uspectacle/chesslab) -  (5 days ago)
 - [depreciating/DoodleCloud](https://github.com/depreciating/DoodleCloud) - Cloud Storage using Instagram. (2 weeks ago)
-- [ThePrimeagen/99](https://github.com/ThePrimeagen/99) - Neovim AI agent done right (3 weeks ago)
-- [lklynet/hypermind](https://github.com/lklynet/hypermind) - The High-Availability Solution to a Problem That Doesn&#39;t Exist. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
