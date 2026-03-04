@@ -4,10 +4,10 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 day ago)
-- [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (5 days ago)
-- [cterence/pkgx-bash](https://github.com/cterence/pkgx-bash) - A docker image based on pkgx with a &#34;command_not_found&#34; bash handle. (5 days ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (2 weeks ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (1 day ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (2 days ago)
+- [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (6 days ago)
+- [cterence/pkgx-bash](https://github.com/cterence/pkgx-bash) - A docker image based on pkgx with a &#34;command_not_found&#34; bash handle. (6 days ago)
 - [cterence/gbgo](https://github.com/cterence/gbgo) - Game Boy emulator in Golang (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -36,19 +36,19 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [rfsbraz/huntarr-security-review](https://github.com/rfsbraz/huntarr-security-review) -  (4 days ago)
-- [Uspectacle/chesslab](https://github.com/Uspectacle/chesslab) -  (4 days ago)
+- [rfsbraz/huntarr-security-review](https://github.com/rfsbraz/huntarr-security-review) -  (5 days ago)
+- [Uspectacle/chesslab](https://github.com/Uspectacle/chesslab) -  (5 days ago)
 - [depreciating/DoodleCloud](https://github.com/depreciating/DoodleCloud) - Cloud Storage using Instagram. (2 weeks ago)
 - [ThePrimeagen/99](https://github.com/ThePrimeagen/99) - Neovim AI agent done right (3 weeks ago)
 - [lklynet/hypermind](https://github.com/lklynet/hypermind) - The High-Availability Solution to a Problem That Doesn&#39;t Exist. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
+- [YoussefBechara](https://github.com/YoussefBechara)
+- [ishandutta2007](https://github.com/ishandutta2007)
 - [wetmet](https://github.com/wetmet)
 - [basanys](https://github.com/basanys)
 - [Connor9994](https://github.com/Connor9994)
-- [SamyDjemai](https://github.com/SamyDjemai)
-- [kyuuk](https://github.com/kyuuk)
 
 <p align='center'>
 <picture>
