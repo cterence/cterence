@@ -4,15 +4,15 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/dendritic-nixos-config](https://github.com/cterence/dendritic-nixos-config) - Dendritic NixOS config (today)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - NixOS configuration of all my computers / servers using flakes (2 days ago)
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (6 days ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - Dendritic NixOS config (1 day ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 day ago)
+- [cterence/nixos-config-old](https://github.com/cterence/nixos-config-old) - NixOS configuration of all my computers / servers using flakes (3 days ago)
 - [cterence/pkgx-bash](https://github.com/cterence/pkgx-bash) - A docker image based on pkgx with a &#34;command_not_found&#34; bash handle. (1 week ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (1 week ago)
 
 #### 🌱 My latest projects
 
-- [cterence/dendritic-nixos-config](https://github.com/cterence/dendritic-nixos-config) - Dendritic NixOS config
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - Dendritic NixOS config
 - [cterence/gbgo](https://github.com/cterence/gbgo) - Game Boy emulator in Golang
 - [cterence/goarcade](https://github.com/cterence/goarcade) - Intel 8080 arcade emulator written in Golang.
 - [cterence/chip8-go](https://github.com/cterence/chip8-go) - A Golang CHIP-8 interpreter, supports SUPER-CHIP and XO-CHIP.
@@ -29,18 +29,18 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 #### 🔨 My recent Pull Requests
 
 - [google-chat-linux: 5.29.23-1 -&gt; 5.39.24-1](https://github.com/NixOS/nixpkgs/pull/477743) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 months ago)
-- [betteralign: init at 0.8.3](https://github.com/NixOS/nixpkgs/pull/469257) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 months ago)
+- [betteralign: init at 0.8.3](https://github.com/NixOS/nixpkgs/pull/469257) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 months ago)
 - [feat(nextcloud): use cronjob for cronjob](https://github.com/cterence/homelab-gitops/pull/501) on [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) (5 months ago)
-- [ci: setup attic cache push](https://github.com/cterence/nixos-config/pull/222) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (9 months ago)
-- [chore(flake.lock): update](https://github.com/cterence/nixos-config/pull/144) on [cterence/nixos-config](https://github.com/cterence/nixos-config) (11 months ago)
+- [ci: setup attic cache push](https://github.com/cterence/nixos-config-old/pull/222) on [cterence/nixos-config-old](https://github.com/cterence/nixos-config-old) (9 months ago)
+- [chore(flake.lock): update](https://github.com/cterence/nixos-config-old/pull/144) on [cterence/nixos-config-old](https://github.com/cterence/nixos-config-old) (11 months ago)
 
 #### ⭐ Recent Stars
 
-- [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral (4 days ago)
-- [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate. (4 days ago)
+- [Doc-Steve/dendritic-design-with-flake-parts](https://github.com/Doc-Steve/dendritic-design-with-flake-parts) - A guide on how to structure your Nix code with Flake Parts using the Dendritic Pattern (1 day ago)
+- [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]  (1 day ago)
+- [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral (5 days ago)
+- [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate. (5 days ago)
 - [rfsbraz/huntarr-security-review](https://github.com/rfsbraz/huntarr-security-review) -  (1 week ago)
-- [Uspectacle/chesslab](https://github.com/Uspectacle/chesslab) -  (1 week ago)
-- [depreciating/DoodleCloud](https://github.com/depreciating/DoodleCloud) - Cloud Storage using Instagram. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
