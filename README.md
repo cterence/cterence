@@ -4,8 +4,8 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 day ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - Dendritic NixOS config (2 days ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (today)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - Dendritic NixOS config (1 day ago)
 - [cterence/nixos-config-old](https://github.com/cterence/nixos-config-old) - NixOS configuration of all my computers / servers using flakes (1 week ago)
 - [cterence/pkgx-bash](https://github.com/cterence/pkgx-bash) - A docker image based on pkgx with a &#34;command_not_found&#34; bash handle. (2 weeks ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (2 weeks ago)
@@ -20,7 +20,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 🔭 Latest releases I've contributed to
 
-- [cterence/gbgo](https://github.com/cterence/gbgo) ([0.0.1](https://github.com/cterence/gbgo/releases/tag/0.0.1), 2 months ago) - Game Boy emulator in Golang
+- [cterence/gbgo](https://github.com/cterence/gbgo) ([0.0.1](https://github.com/cterence/gbgo/releases/tag/0.0.1), 3 months ago) - Game Boy emulator in Golang
 - [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) ([v1.14.0](https://github.com/padok-team/yatas-aws/releases/tag/v1.14.0), 5 months ago) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) ([0.5.0](https://github.com/cterence/go-healthcheck/releases/tag/0.5.0), 5 months ago) - Simple health check application based on the hellofresh/health-go library.
 - [cterence/lastfm-scrobble-deduplicator](https://github.com/cterence/lastfm-scrobble-deduplicator) ([0.1.1](https://github.com/cterence/lastfm-scrobble-deduplicator/releases/tag/0.1.1), 5 months ago) - Automatically detects and removes duplicate scrobbles from your Last.fm profile
@@ -36,7 +36,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92] (6 days ago)
+- [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92] (1 week ago)
 - [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage your macOS using Nix (1 week ago)
 - [nix-community/plasma-manager](https://github.com/nix-community/plasma-manager) - Manage KDE Plasma with Home Manager [maintainer=@HeitorAugustoLN]  (1 week ago)
 - [Doc-Steve/dendritic-design-with-flake-parts](https://github.com/Doc-Steve/dendritic-design-with-flake-parts) - A guide on how to structure your Nix code with Flake Parts using the Dendritic Pattern (1 week ago)
