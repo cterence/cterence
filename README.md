@@ -5,8 +5,8 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 #### 👷 Check out what I'm currently working on
 
 - [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (today)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - Dendritic NixOS config (2 days ago)
-- [cterence/nixos-config-old](https://github.com/cterence/nixos-config-old) - NixOS configuration of all my computers / servers using flakes (1 week ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - Dendritic NixOS config (1 day ago)
+- [cterence/nixos-config-old](https://github.com/cterence/nixos-config-old) - NixOS configuration of all my computers / servers using flakes (2 weeks ago)
 - [cterence/pkgx-bash](https://github.com/cterence/pkgx-bash) - A docker image based on pkgx with a &#34;command_not_found&#34; bash handle. (3 weeks ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (3 weeks ago)
 
@@ -24,7 +24,6 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 - [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) ([v1.14.0](https://github.com/padok-team/yatas-aws/releases/tag/v1.14.0), 5 months ago) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) ([0.5.0](https://github.com/cterence/go-healthcheck/releases/tag/0.5.0), 5 months ago) - Simple health check application based on the hellofresh/health-go library.
 - [cterence/lastfm-scrobble-deduplicator](https://github.com/cterence/lastfm-scrobble-deduplicator) ([0.1.1](https://github.com/cterence/lastfm-scrobble-deduplicator/releases/tag/0.1.1), 5 months ago) - Automatically detects and removes duplicate scrobbles from your Last.fm profile
-- [cterence/tailout](https://github.com/cterence/tailout) ([v0.5.0](https://github.com/cterence/tailout/releases/tag/v0.5.0), 1 year ago) - Spawn an exit node for your tailscale network anywhere
 
 #### 🔨 My recent Pull Requests
 
@@ -36,19 +35,19 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [synthe102/dotfiles](https://github.com/synthe102/dotfiles) - NixOS/NixDarwin configuration. (1 day ago)
-- [synthe102/homelab](https://github.com/synthe102/homelab) - GitOps config of my homelab (1 day ago)
+- [synthe102/dotfiles](https://github.com/synthe102/dotfiles) - NixOS/NixDarwin configuration. (2 days ago)
+- [synthe102/homelab](https://github.com/synthe102/homelab) - GitOps config of my homelab (2 days ago)
 - [mistralai/nixtral](https://github.com/mistralai/nixtral) - A nix config for Mistralers (1 week ago)
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92] (1 week ago)
 - [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage your macOS using Nix (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
+- [ThomasLachaux](https://github.com/ThomasLachaux)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [wetmet](https://github.com/wetmet)
 - [basanys](https://github.com/basanys)
 - [Connor9994](https://github.com/Connor9994)
-- [SamyDjemai](https://github.com/SamyDjemai)
 
 <p align='center'>
 <picture>
