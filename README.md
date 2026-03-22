@@ -5,7 +5,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 #### 👷 Check out what I'm currently working on
 
 - [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 day ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - Dendritic NixOS config (2 days ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - Dendritic NixOS config (3 days ago)
 - [cterence/nixos-config-old](https://github.com/cterence/nixos-config-old) - NixOS configuration of all my computers / servers using flakes (2 weeks ago)
 - [cterence/pkgx-bash](https://github.com/cterence/pkgx-bash) - A docker image based on pkgx with a &#34;command_not_found&#34; bash handle. (3 weeks ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (3 weeks ago)
@@ -31,15 +31,15 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 - [betteralign: init at 0.8.3](https://github.com/NixOS/nixpkgs/pull/469257) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 months ago)
 - [feat(nextcloud): use cronjob for cronjob](https://github.com/cterence/homelab-gitops/pull/501) on [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) (6 months ago)
 - [ci: setup attic cache push](https://github.com/cterence/nixos-config-old/pull/222) on [cterence/nixos-config-old](https://github.com/cterence/nixos-config-old) (9 months ago)
-- [chore(flake.lock): update](https://github.com/cterence/nixos-config-old/pull/144) on [cterence/nixos-config-old](https://github.com/cterence/nixos-config-old) (11 months ago)
+- [chore(flake.lock): update](https://github.com/cterence/nixos-config-old/pull/144) on [cterence/nixos-config-old](https://github.com/cterence/nixos-config-old) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [synthe102/dotfiles](https://github.com/synthe102/dotfiles) - NixOS/NixDarwin configuration. (3 days ago)
-- [synthe102/homelab](https://github.com/synthe102/homelab) - GitOps config of my homelab (3 days ago)
+- [roukydesbois/homelab](https://github.com/roukydesbois/homelab) -  (1 day ago)
+- [synthe102/dotfiles](https://github.com/synthe102/dotfiles) - NixOS/NixDarwin configuration. (4 days ago)
+- [synthe102/homelab](https://github.com/synthe102/homelab) - GitOps config of my homelab (4 days ago)
 - [mistralai/nixtral](https://github.com/mistralai/nixtral) - A nix config for Mistralers (1 week ago)
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92] (1 week ago)
-- [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage your macOS using Nix (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
