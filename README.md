@@ -4,8 +4,8 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - Dendritic NixOS config (1 day ago)
 - [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 day ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - Dendritic NixOS config (3 days ago)
 - [cterence/nixos-config-old](https://github.com/cterence/nixos-config-old) - NixOS configuration of all my computers / servers using flakes (2 weeks ago)
 - [cterence/pkgx-bash](https://github.com/cterence/pkgx-bash) - A docker image based on pkgx with a &#34;command_not_found&#34; bash handle. (3 weeks ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (3 weeks ago)
@@ -35,19 +35,19 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [roukydesbois/homelab](https://github.com/roukydesbois/homelab) -  (1 day ago)
-- [synthe102/dotfiles](https://github.com/synthe102/dotfiles) - NixOS/NixDarwin configuration. (4 days ago)
-- [synthe102/homelab](https://github.com/synthe102/homelab) - GitOps config of my homelab (4 days ago)
+- [roukydesbois/homelab](https://github.com/roukydesbois/homelab) -  (2 days ago)
+- [synthe102/dotfiles](https://github.com/synthe102/dotfiles) - NixOS/NixDarwin configuration. (5 days ago)
+- [synthe102/homelab](https://github.com/synthe102/homelab) - GitOps config of my homelab (5 days ago)
 - [mistralai/nixtral](https://github.com/mistralai/nixtral) - A nix config for Mistralers (1 week ago)
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92] (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
+- [roukydesbois](https://github.com/roukydesbois)
 - [vincentjiang777](https://github.com/vincentjiang777)
 - [ThomasLachaux](https://github.com/ThomasLachaux)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [wetmet](https://github.com/wetmet)
-- [basanys](https://github.com/basanys)
 
 <p align='center'>
 <picture>
