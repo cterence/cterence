@@ -4,8 +4,8 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - Dendritic NixOS config (1 day ago)
 - [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 day ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - Dendritic NixOS config (2 days ago)
 - [cterence/nixos-config-old](https://github.com/cterence/nixos-config-old) - NixOS configuration of all my computers / servers using flakes (2 weeks ago)
 - [cterence/pkgx-bash](https://github.com/cterence/pkgx-bash) - A docker image based on pkgx with a &#34;command_not_found&#34; bash handle. (3 weeks ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (3 weeks ago)
@@ -35,11 +35,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (1 day ago)
-- [roukydesbois/homelab](https://github.com/roukydesbois/homelab) -  (3 days ago)
-- [synthe102/dotfiles](https://github.com/synthe102/dotfiles) - NixOS/NixDarwin configuration. (6 days ago)
-- [synthe102/homelab](https://github.com/synthe102/homelab) - GitOps config of my homelab (6 days ago)
-- [mistralai/nixtral](https://github.com/mistralai/nixtral) - A nix config for Mistralers (1 week ago)
+- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (2 days ago)
+- [roukydesbois/homelab](https://github.com/roukydesbois/homelab) -  (4 days ago)
+- [synthe102/dotfiles](https://github.com/synthe102/dotfiles) - NixOS/NixDarwin configuration. (1 week ago)
+- [synthe102/homelab](https://github.com/synthe102/homelab) - GitOps config of my homelab (1 week ago)
+- [mistralai/nixtral](https://github.com/mistralai/nixtral) - A nix config for Mistralers (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
