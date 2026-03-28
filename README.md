@@ -4,11 +4,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (3 days ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - Dendritic NixOS config (3 days ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - Dendritic NixOS config (today)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 day ago)
 - [cterence/nixos-config-old](https://github.com/cterence/nixos-config-old) - NixOS configuration of all my computers / servers using flakes (3 weeks ago)
-- [cterence/pkgx-bash](https://github.com/cterence/pkgx-bash) - A docker image based on pkgx with a &#34;command_not_found&#34; bash handle. (4 weeks ago)
-- [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (4 weeks ago)
+- [cterence/pkgx-bash](https://github.com/cterence/pkgx-bash) - A docker image based on pkgx with a &#34;command_not_found&#34; bash handle. (1 month ago)
+- [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -35,19 +35,19 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (4 days ago)
-- [roukydesbois/homelab](https://github.com/roukydesbois/homelab) -  (6 days ago)
+- [lunics/nix_system](https://github.com/lunics/nix_system) - Nixos configuration, will be merged soon to a bigger repo (1 day ago)
+- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (5 days ago)
+- [roukydesbois/homelab](https://github.com/roukydesbois/homelab) -  (1 week ago)
 - [synthe102/dotfiles](https://github.com/synthe102/dotfiles) - NixOS/NixDarwin configuration. (1 week ago)
 - [synthe102/homelab](https://github.com/synthe102/homelab) - GitOps config of my homelab (1 week ago)
-- [mistralai/nixtral](https://github.com/mistralai/nixtral) - A nix config for Mistralers (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
+- [lunics](https://github.com/lunics)
 - [roukydesbois](https://github.com/roukydesbois)
 - [vincentjiang777](https://github.com/vincentjiang777)
 - [ThomasLachaux](https://github.com/ThomasLachaux)
 - [ishandutta2007](https://github.com/ishandutta2007)
-- [wetmet](https://github.com/wetmet)
 
 <p align='center'>
 <picture>
