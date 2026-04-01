@@ -5,7 +5,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 #### 👷 Check out what I'm currently working on
 
 - [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 day ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - Dendritic NixOS config (1 day ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - Dendritic NixOS config (2 days ago)
 - [cterence/nixos-config-old](https://github.com/cterence/nixos-config-old) - NixOS configuration of all my computers / servers using flakes (3 weeks ago)
 - [cterence/pkgx-bash](https://github.com/cterence/pkgx-bash) - A docker image based on pkgx with a &#34;command_not_found&#34; bash handle. (1 month ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (1 month ago)
@@ -30,16 +30,16 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 - [google-chat-linux: 5.29.23-1 -&gt; 5.39.24-1](https://github.com/NixOS/nixpkgs/pull/477743) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 months ago)
 - [betteralign: init at 0.8.3](https://github.com/NixOS/nixpkgs/pull/469257) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 months ago)
 - [feat(nextcloud): use cronjob for cronjob](https://github.com/cterence/homelab-gitops/pull/501) on [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) (6 months ago)
-- [ci: setup attic cache push](https://github.com/cterence/nixos-config-old/pull/222) on [cterence/nixos-config-old](https://github.com/cterence/nixos-config-old) (9 months ago)
+- [ci: setup attic cache push](https://github.com/cterence/nixos-config-old/pull/222) on [cterence/nixos-config-old](https://github.com/cterence/nixos-config-old) (10 months ago)
 - [chore(flake.lock): update](https://github.com/cterence/nixos-config-old/pull/144) on [cterence/nixos-config-old](https://github.com/cterence/nixos-config-old) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [lunics/nix_home](https://github.com/lunics/nix_home) - Home-manager configuration (1 day ago)
-- [lunics/nix_system](https://github.com/lunics/nix_system) - Nixos configuration, will be merged soon to a bigger repo (4 days ago)
+- [lunics/nix_home](https://github.com/lunics/nix_home) - Home-manager configuration (2 days ago)
+- [lunics/nix_system](https://github.com/lunics/nix_system) - Nixos configuration, will be merged soon to a bigger repo (5 days ago)
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (1 week ago)
 - [roukydesbois/homelab](https://github.com/roukydesbois/homelab) -  (1 week ago)
-- [synthe102/dotfiles](https://github.com/synthe102/dotfiles) - NixOS/NixDarwin configuration. (1 week ago)
+- [synthe102/dotfiles](https://github.com/synthe102/dotfiles) - NixOS/NixDarwin configuration. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
