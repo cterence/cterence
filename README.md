@@ -4,8 +4,8 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (1 day ago)
-- [cterence/nixos-config](https://github.com/cterence/nixos-config) - Dendritic NixOS config (2 days ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (2 days ago)
+- [cterence/nixos-config](https://github.com/cterence/nixos-config) - Dendritic NixOS config (3 days ago)
 - [cterence/nixos-config-old](https://github.com/cterence/nixos-config-old) - NixOS configuration of all my computers / servers using flakes (3 weeks ago)
 - [cterence/pkgx-bash](https://github.com/cterence/pkgx-bash) - A docker image based on pkgx with a &#34;command_not_found&#34; bash handle. (1 month ago)
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) - Simple health check application based on the hellofresh/health-go library. (1 month ago)
@@ -35,11 +35,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [lunics/nix_home](https://github.com/lunics/nix_home) - Home-manager configuration (2 days ago)
-- [lunics/nix_system](https://github.com/lunics/nix_system) - Nixos configuration, will be merged soon to a bigger repo (5 days ago)
+- [LucasMrqes/vertical-disk-autoscaler](https://github.com/LucasMrqes/vertical-disk-autoscaler) -  (1 day ago)
+- [lunics/nix_home](https://github.com/lunics/nix_home) - Home-manager configuration (3 days ago)
+- [lunics/nix_system](https://github.com/lunics/nix_system) - Nixos configuration, will be merged soon to a bigger repo (6 days ago)
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (1 week ago)
 - [roukydesbois/homelab](https://github.com/roukydesbois/homelab) -  (1 week ago)
-- [synthe102/dotfiles](https://github.com/synthe102/dotfiles) - NixOS/NixDarwin configuration. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
