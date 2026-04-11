@@ -4,9 +4,9 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (today)
 - [cterence/nixos-config](https://github.com/cterence/nixos-config) - Dendritic NixOS config (1 day ago)
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (4 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (6 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 week ago)
 - [cterence/nixos-config-old](https://github.com/cterence/nixos-config-old) - NixOS configuration of all my computers / servers using flakes (1 month ago)
 - [cterence/pkgx-bash](https://github.com/cterence/pkgx-bash) - A docker image based on pkgx with a &#34;command_not_found&#34; bash handle. (1 month ago)
 
@@ -27,7 +27,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 🔨 My recent Pull Requests
 
-- [gowebly: update to 3.1.0 &amp; fix runtime dependencies](https://github.com/NixOS/nixpkgs/pull/506660) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (6 days ago)
+- [gowebly: update to 3.1.0 &amp; fix runtime dependencies](https://github.com/NixOS/nixpkgs/pull/506660) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
 - [google-chat-linux: 5.29.23-1 -&gt; 5.39.24-1](https://github.com/NixOS/nixpkgs/pull/477743) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 months ago)
 - [betteralign: init at 0.8.3](https://github.com/NixOS/nixpkgs/pull/469257) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 months ago)
 - [feat(nextcloud): use cronjob for cronjob](https://github.com/cterence/homelab-gitops/pull/501) on [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) (6 months ago)
@@ -35,8 +35,8 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc. (5 days ago)
-- [Mic92/niks3](https://github.com/Mic92/niks3) - S3-backed Nix binary cache with garbage collection (6 days ago)
+- [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc. (6 days ago)
+- [Mic92/niks3](https://github.com/Mic92/niks3) - S3-backed Nix binary cache with garbage collection (1 week ago)
 - [LucasMrqes/vertical-disk-autoscaler](https://github.com/LucasMrqes/vertical-disk-autoscaler) -  (1 week ago)
 - [lunics/nix_home](https://github.com/lunics/nix_home) - Home-manager configuration (1 week ago)
 - [lunics/nix_system](https://github.com/lunics/nix_system) - Nixos configuration, will be merged soon to a bigger repo (2 weeks ago)
