@@ -5,10 +5,10 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 #### 👷 Check out what I'm currently working on
 
 - [cterence/nixos-config](https://github.com/cterence/nixos-config) - Dendritic NixOS config (1 day ago)
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (3 days ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (4 days ago)
+- [Mic92/niks3](https://github.com/Mic92/niks3) - S3-backed Nix binary cache with garbage collection (5 days ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 week ago)
 - [cterence/nixos-config-old](https://github.com/cterence/nixos-config-old) - NixOS configuration of all my computers / servers using flakes (1 month ago)
-- [cterence/pkgx-bash](https://github.com/cterence/pkgx-bash) - A docker image based on pkgx with a &#34;command_not_found&#34; bash handle. (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -20,6 +20,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 🔭 Latest releases I've contributed to
 
+- [Mic92/niks3](https://github.com/Mic92/niks3) ([v1.4.0](https://github.com/Mic92/niks3/releases/tag/v1.4.0), 2 months ago) - S3-backed Nix binary cache with garbage collection
 - [cterence/gbgo](https://github.com/cterence/gbgo) ([0.0.1](https://github.com/cterence/gbgo/releases/tag/0.0.1), 3 months ago) - Game Boy emulator in Golang
 - [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws) ([v1.14.0](https://github.com/padok-team/yatas-aws/releases/tag/v1.14.0), 6 months ago) - Plugin for YATAS that audits AWS accounts for misconfiguration and security issues
 - [cterence/go-healthcheck](https://github.com/cterence/go-healthcheck) ([0.5.0](https://github.com/cterence/go-healthcheck/releases/tag/0.5.0), 6 months ago) - Simple health check application based on the hellofresh/health-go library.
@@ -27,7 +28,7 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 🔨 My recent Pull Requests
 
-- [niks3-docker: embed niks3 binary in docker image](https://github.com/Mic92/niks3/pull/344) on [Mic92/niks3](https://github.com/Mic92/niks3) (4 days ago)
+- [niks3-docker: embed niks3 binary in docker image](https://github.com/Mic92/niks3/pull/344) on [Mic92/niks3](https://github.com/Mic92/niks3) (5 days ago)
 - [gowebly: update to 3.1.0 &amp; fix runtime dependencies](https://github.com/NixOS/nixpkgs/pull/506660) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
 - [google-chat-linux: 5.29.23-1 -&gt; 5.39.24-1](https://github.com/NixOS/nixpkgs/pull/477743) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 months ago)
 - [betteralign: init at 0.8.3](https://github.com/NixOS/nixpkgs/pull/469257) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 months ago)
@@ -35,11 +36,11 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### ⭐ Recent Stars
 
-- [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance. (1 day ago)
-- [cloud-gouv/bureautix-example](https://github.com/cloud-gouv/bureautix-example) -  (1 day ago)
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (4 days ago)
+- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines (1 day ago)
+- [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance. (2 days ago)
+- [cloud-gouv/bureautix-example](https://github.com/cloud-gouv/bureautix-example) -  (2 days ago)
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (5 days ago)
 - [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc. (1 week ago)
-- [Mic92/niks3](https://github.com/Mic92/niks3) - S3-backed Nix binary cache with garbage collection (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
