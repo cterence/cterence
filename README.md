@@ -4,10 +4,10 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 👷 Check out what I'm currently working on
 
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (5 days ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My cluster managed by ArgoCD. (6 days ago)
 - [cterence/nixos-config](https://github.com/cterence/nixos-config) - Dendritic NixOS config (1 week ago)
-- [Mic92/niks3](https://github.com/Mic92/niks3) - S3-backed Nix binary cache with garbage collection (1 week ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 weeks ago)
+- [Mic92/niks3](https://github.com/Mic92/niks3) - S3-backed Nix binary cache with garbage collection (2 weeks ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 weeks ago)
 - [cterence/nixos-config-old](https://github.com/cterence/nixos-config-old) - NixOS configuration of all my computers / servers using flakes (1 month ago)
 
 #### 🌱 My latest projects
@@ -28,19 +28,19 @@ I'm [Térence Chateigné](https://www.terence.cloud). I'm passionate about NixOS
 
 #### 🔨 My recent Pull Requests
 
-- [niks3-docker: embed niks3 binary in docker image](https://github.com/Mic92/niks3/pull/344) on [Mic92/niks3](https://github.com/Mic92/niks3) (1 week ago)
-- [gowebly: update to 3.1.0 &amp; fix runtime dependencies](https://github.com/NixOS/nixpkgs/pull/506660) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
+- [niks3-docker: embed niks3 binary in docker image](https://github.com/Mic92/niks3/pull/344) on [Mic92/niks3](https://github.com/Mic92/niks3) (2 weeks ago)
+- [gowebly: update to 3.1.0 &amp; fix runtime dependencies](https://github.com/NixOS/nixpkgs/pull/506660) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 weeks ago)
 - [google-chat-linux: 5.29.23-1 -&gt; 5.39.24-1](https://github.com/NixOS/nixpkgs/pull/477743) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 months ago)
 - [betteralign: init at 0.8.3](https://github.com/NixOS/nixpkgs/pull/469257) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 months ago)
 - [feat(nextcloud): use cronjob for cronjob](https://github.com/cterence/homelab-gitops/pull/501) on [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) (7 months ago)
 
 #### ⭐ Recent Stars
 
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts. (1 day ago)
 - [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines (1 week ago)
 - [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance. (1 week ago)
 - [cloud-gouv/bureautix-example](https://github.com/cloud-gouv/bureautix-example) -  (1 week ago)
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (1 week ago)
-- [Mic92/niks3](https://github.com/Mic92/niks3) - S3-backed Nix binary cache with garbage collection (2 weeks ago)
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
